@@ -7,17 +7,17 @@
 \end{figure}
 
 
-{The travel time between two points is the sum of the infinitesimal changes in the time taken to cover a fixed infinitesimal distance from the path length. If we define the total time taken to be T, then the mathematical relation is defined as,}
+{The travel time between two points is the sum of the infinitesimal changes in the time taken to cover a fixed infinitesimal distance from the path length. If I, define the total time taken to be T, then the mathematical relation is defined as,}
 
 	$$T = \int dt$$
 
 {Because the phenomenon spans between in an finite time period, the above general integral can be written as,}
 
-	$$T = \int_{0}^{t} dt$$
+	$$T = \int_{t_{1}}^{t_{2}} dt$$
 
-{So, the solution to the problem is the the optimization (minimization) of the time integral above, ie. The optimization (minimization) of \textit{\textbf{T}}.}
+{Where, the phenomenon spans between $t = t_{1}$ and $t = t_{2}$. So, the solution to the problem is obtained when the optimization (minimization) of the time integral above is computed, ie. Obtaining the curve on which the optimization (minimization) of \textit{\textbf{T}} takes place.}
 
-{If we define the velocity of the spherical mass in motion on the path (curve) to be,}
+{If I define the velocity of the spherical mass in motion on the path (curve) to be,}
 
 	$$v = \frac{ds}{dt}$$
 
@@ -27,18 +27,18 @@
 
 	$$dt = \frac{ds}{v}$$
 
-{Making a substitution for \textit{dt} in the integral yields,}
+{Making a substitution for \textit{dt} in the integral for \textit{\textbf{T}} yields,}
 
 	$$T = \int \frac{ds}{v}$$
 
-{Because this phenomenon consists of a finite path with a finite path length spanning between two points, namely A and B, the above general integral can be written as,}
+{Because this phenomenon consists of a finite path with a finite path length spanning between two points, namely $x_{1}$ and $x_{2}$, the above general integral can be written as,}
 
 	\begin{equation}
-		T = \int_{A}^{B} \frac{ds}{v}
+		T = \int_{x_{1}}^{x_{2}} \frac{ds}{v}
 		\label{T-ab}
 	\end{equation}
 
-{As we are considering \textit{y} to be the vertical distance (height) at an instant from point A to the spherical mass on the curve, by the conservation of energy we have that the kinetic energy of the spherical mass at a point in time on curve is the loss in potential energy from height \textit{y}. Mathematically we have,}
+{As I am considering \textit{y} to be the vertical distance (height) at an instant from point $x_{1}$ to the spherical mass on the curve, by the conservation of energy we have that the kinetic energy of the spherical mass at a point in time on curve is the loss in potential energy from height \textit{y}. Mathematically we have,}
 
 	$$\frac{1}{2}mv^2 = mgy$$ 
 
@@ -56,7 +56,7 @@
 
 {Making a substitution for \textit{ds} and \textit{v} in equation \ref{T-ab}, we have,}
 
-	$$T = \int_{A}^{B} \frac{ds}{v} = \int_{x_1}^{x_2} \frac{\sqrt{1 + \left(y^{\prime}\right)^2}}{\sqrt{2gy}} dx = \int_{x_1}^{x_2} \sqrt{\frac{1 + \left(y^{\prime}\right)^2}{2gy}} dx$$
+	$$T = \int_{x_1}^{x_2} \frac{ds}{v} = \int_{x_1}^{x_2} \frac{\sqrt{1 + \left(y^{\prime}\right)^2}}{\sqrt{2gy}} dx = \int_{x_1}^{x_2} \sqrt{\frac{1 + \left(y^{\prime}\right)^2}{2gy}} dx$$
 
 {Therefore we have,}
 
@@ -65,7 +65,7 @@
 		\label{Tmin}
 	\end{equation}
 
-{Looking at the above equation, we can see that conventional calculus methods do not apply here. Instead of minimizing a specific point in a function, we are to minimize a family of curves (functions).}
+{Looking at the above equation, we can see that conventional calculus methods do not apply here. Instead of minimizing a specific point in a function, we are to minimize a family of curves (functions). This is because the function under the integral represents a category of special functions.}
 
 \begin{figure}[H]
 \centering
@@ -73,7 +73,7 @@
     		\caption{{A graphial representation of some curves that could be a possible solution to the Brachistochrone problem}}
 \end{figure}
 
-{Upon observation we can evidently see that, $\sqrt{\frac{1 + \left(y^{\prime}\right)^2}{y}}$ is functional in \textit{y} and \textit{$y^\prime$}.}
+{Upon observation we can evidently see that, $\sqrt{\frac{1 + \left(y^{\prime}\right)^2}{y}}$ is a special function in \textit{y} and \textit{$y^\prime$}. A function of this type (a function depending on a variable and their derivatives) is called a functional.}
 
 {If we define this functional as \textit{F}, we have,}
 
