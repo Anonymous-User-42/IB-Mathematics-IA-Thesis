@@ -1,22 +1,21 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  24 OCT 2021 02:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  4 NOV 2021 21:25
 entering extended mode
 **./main.tex
 (main.tex
 LaTeX2e <2021-06-01> patch level 1
-L3 programming layer <2021-07-12> (C:\MikTek\tex/latex/base\report.cls
-Document Class: report 2021/02/12 v1.4n Standard LaTeX document class
+L3 programming layer <2021-07-12> (C:\MikTek\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
 (C:\MikTek\tex/latex/base\size12.clo
 File: size12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count182
-\c@chapter=\count183
-\c@section=\count184
-\c@subsection=\count185
-\c@subsubsection=\count186
-\c@paragraph=\count187
-\c@subparagraph=\count188
-\c@figure=\count189
-\c@table=\count190
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
@@ -43,7 +42,7 @@ Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 ))
 (C:\MikTek\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count191
+\etb@tempcnta=\count190
 ))
 (C:\MikTek\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2021/04/20 v2.17j AMS math features
@@ -65,13 +64,13 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (C:\MikTek\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count192
+\inf@bad=\count191
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count193
-\leftroot@=\count194
+\uproot@=\count192
+\leftroot@=\count193
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count195
-\DOTSCASE@=\count196
+\classnum@=\count194
+\DOTSCASE@=\count195
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -80,15 +79,15 @@ LaTeX Info: Redefining \cdots on input line 620.
 \big@size=\dimen141
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count197
-\c@MaxMatrixCols=\count198
+\macc@depth=\count196
+\c@MaxMatrixCols=\count197
 \dotsspace@=\muskip16
-\c@parentequation=\count199
-\dspbrk@lvl=\count266
+\c@parentequation=\count198
+\dspbrk@lvl=\count199
 \tag@help=\toks20
-\row@=\count267
-\column@=\count268
-\maxfields@=\count269
+\row@=\count266
+\column@=\count267
+\maxfields@=\count268
 \andhelp@=\toks21
 \eqnshift@=\dimen142
 \alignsep@=\dimen143
@@ -116,7 +115,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 ))
 (C:\MikTek\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count270
+\c@float@type=\count269
 \float@exts=\toks24
 \float@box=\box52
 \@float@everytoks=\toks25
@@ -155,15 +154,15 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 \pIIe@tempdimf=\dimen155
 ) (C:\MikTek\tex/latex/tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count271
-\calc@Bcount=\count272
+\calc@Acount=\count270
+\calc@Bcount=\count271
 \calc@Adimen=\dimen156
 \calc@Bdimen=\dimen157
 \calc@Askip=\skip52
 \calc@Bskip=\skip53
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count273
+\calc@Ccount=\count272
 \calc@Cskip=\skip54
 )
 (C:\MikTek\tex/latex/tools\array.sty
@@ -231,8 +230,8 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 \@linkdim=\dimen166
-\Hy@linkcounter=\count274
-\Hy@pagecounter=\count275
+\Hy@linkcounter=\count273
+\Hy@pagecounter=\count274
 
 (C:\MikTek\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
@@ -249,7 +248,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (C:\MikTek\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count276
+\Hy@SavedSpaceFactor=\count275
 
 (C:\MikTek\tex/latex/hyperref\puenc.def
 File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
@@ -263,7 +262,7 @@ Package hyperref Info: Plain pages OFF on input line 4207.
 Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count277
+\c@Hy@tempcnt=\count276
  (C:\MikTek\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
@@ -278,7 +277,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count278
+\Fld@menulength=\count277
 \Field@Width=\dimen168
 \Fld@charsize=\dimen169
 Package hyperref Info: Hyper figures OFF on input line 6076.
@@ -295,9 +294,9 @@ LaTeX Info: Redefining \pageref on input line 6150.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count279
-\c@Item=\count280
-\c@Hfootnote=\count281
+\Hy@abspage=\count278
+\c@Item=\count279
+\c@Hfootnote=\count280
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -309,8 +308,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
 e
 with kernel methods
 )
-\Fld@listcount=\count282
-\c@bookmark@seq@number=\count283
+\Fld@listcount=\count281
+\c@bookmark@seq@number=\count282
 
 (C:\MikTek\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
@@ -342,15 +341,15 @@ Package: expl3 2021-07-12 L3 programming layer (loader)
 
 (C:\MikTek\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count284
+\l__color_backend_stack_int=\count283
 \l__pdf_internal_box=\box60
 ))
 Package: l3keys2e 2021-08-04 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-08-01 v2.5 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count285
-\l__lipsum_a_int=\count286
-\l__lipsum_b_int=\count287
+\g__lipsum_par_int=\count284
+\l__lipsum_a_int=\count285
+\l__lipsum_b_int=\count286
 
 (C:\MikTek\tex/latex/lipsum\lipsum.ltd.tex))
 (C:\MikTek\tex/latex/graphics\graphicx.sty
@@ -409,14 +408,14 @@ Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@yd=\dimen188
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count288
-\c@pgf@countb=\count289
-\c@pgf@countc=\count290
-\c@pgf@countd=\count291
+\c@pgf@counta=\count287
+\c@pgf@countb=\count288
+\c@pgf@countc=\count289
+\c@pgf@countd=\count290
 \t@pgf@toka=\toks34
 \t@pgf@tokb=\toks35
 \t@pgf@tokc=\toks36
-\pgf@sys@id@count=\count292
+\pgf@sys@id@count=\count291
 
 (C:\MikTek\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
@@ -431,8 +430,8 @@ File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 )))
 (C:\MikTek\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count293
-\pgfsyssoftpath@bigbuffer@items=\count294
+\pgfsyssoftpath@smallbuffer@items=\count292
+\pgfsyssoftpath@bigbuffer@items=\count293
 )
 (C:\MikTek\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
@@ -462,7 +461,7 @@ Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
 (C:\MikTek\tex/generic/pgf/math\pgfmathutil.code.tex)
 (C:\MikTek\tex/generic/pgf/math\pgfmathparser.code.tex
 \pgfmath@dimen=\dimen189
-\pgfmath@count=\count295
+\pgfmath@count=\count294
 \pgfmath@box=\box62
 \pgfmath@toks=\toks37
 \pgfmath@stack@operand=\toks38
@@ -478,7 +477,7 @@ Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
 (C:\MikTek\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex)
 (C:\MikTek\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex)))
 (C:\MikTek\tex/generic/pgf/math\pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count296
+\c@pgfmathroundto@lastzeros=\count295
 ))
 (C:\MikTek\tex/generic/pgf/math\pgfint.code.tex)
 (C:\MikTek\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
@@ -513,7 +512,7 @@ File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfpic=\box63
 \pgf@hbox=\box64
 \pgf@layerbox@main=\box65
-\pgf@picture@serial@count=\count297
+\pgf@picture@serial@count=\count296
 )
 (C:\MikTek\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
@@ -541,8 +540,8 @@ File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (C:\MikTek\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@max=\dimen269
-\pgf@sys@shading@range@num=\count298
-\pgf@shadingcount=\count299
+\pgf@sys@shading@range@num=\count297
+\pgf@shadingcount=\count298
 )
 (C:\MikTek\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
@@ -597,7 +596,7 @@ Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
 
 (C:\MikTek\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@plot@mark@count=\count300
+\pgf@plot@mark@count=\count299
 \pgfplotmarksize=\dimen274
 )
 \tikz@lastx=\dimen275
@@ -612,18 +611,18 @@ File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \tikz@figbox@bg=\box69
 \tikz@tempbox=\box70
 \tikz@tempbox@bg=\box71
-\tikztreelevel=\count301
-\tikznumberofchildren=\count302
-\tikznumberofcurrentchild=\count303
-\tikz@fig@count=\count304
+\tikztreelevel=\count300
+\tikznumberofchildren=\count301
+\tikznumberofcurrentchild=\count302
+\tikz@fig@count=\count303
 
 (C:\MikTek\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfmatrixcurrentrow=\count305
-\pgfmatrixcurrentcolumn=\count306
-\pgf@matrix@numberofcolumns=\count307
+\pgfmatrixcurrentrow=\count304
+\pgfmatrixcurrentcolumn=\count305
+\pgf@matrix@numberofcolumns=\count306
 )
-\tikz@expandcount=\count308
+\tikz@expandcount=\count307
 
 (C:\MikTek\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code
 .tex
@@ -639,7 +638,7 @@ Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 \XKV@toks=\toks42
 \XKV@tempa@toks=\toks43
 )
-\XKV@depth=\count309
+\XKV@depth=\count308
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (C:\MikTek\tex/latex/adjustbox\adjcalc.sty
@@ -673,33 +672,33 @@ File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 
 (C:\MikTek\tex/latex/ifoddpage\ifoddpage.sty
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count310
+\c@checkoddpage=\count309
 )
 (C:\MikTek\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box73
-\sift@deathcycles=\count311
+\sift@deathcycles=\count310
 \@vwid@loff=\dimen295
 \@vwid@roff=\dimen296
 ))
 (C:\MikTek\tex/latex/listings\listings.sty
-\lst@mode=\count312
+\lst@mode=\count311
 \lst@gtempboxa=\box74
 \lst@token=\toks44
-\lst@length=\count313
+\lst@length=\count312
 \lst@currlwidth=\dimen297
-\lst@column=\count314
-\lst@pos=\count315
+\lst@column=\count313
+\lst@pos=\count314
 \lst@lostspace=\dimen298
 \lst@width=\dimen299
-\lst@newlines=\count316
-\lst@lineno=\count317
+\lst@newlines=\count315
+\lst@lineno=\count316
 \lst@maxwidth=\dimen300
 
 (C:\MikTek\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count318
-\lst@skipnumbers=\count319
+\c@lstnumber=\count317
+\lst@skipnumbers=\count318
 \lst@framebox=\box75
 )
 (C:\MikTek\tex/latex/listings\listings.cfg
@@ -1080,7 +1079,7 @@ Package textgreek Info: Loaded fontmap: {eur/*/*}{U/eur/*/*} {phv/*/*}{U/psy/*/
 (C:\MikTek\tex/latex/wrapfig\wrapfig.sty
 \wrapoverhang=\dimen301
 \WF@size=\dimen302
-\c@WF@wrappedlines=\count320
+\c@WF@wrappedlines=\count319
 \WF@box=\box76
 \WF@everypar=\toks45
 Package: wrapfig 2003/01/31  v 3.6
@@ -1095,8 +1094,8 @@ Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
 \t@pgfplots@tokb=\toks47
 \t@pgfplots@tokc=\toks48
 \pgfplots@tmpa=\dimen303
-\c@pgfplots@coordindex=\count321
-\c@pgfplots@scanlineindex=\count322
+\c@pgfplots@coordindex=\count320
+\c@pgfplots@scanlineindex=\count321
 
 (C:\MikTek\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex))
 (C:\MikTek\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex)
@@ -1106,11 +1105,11 @@ ex (C:\MikTek\tex/generic/pgf/libraries\pgflibraryfpu.code.tex))
 (C:\MikTek\tex/generic/pgfplots/liststructure\pgfplotsliststructure.code.tex)
 (C:\MikTek\tex/generic/pgfplots/liststructure\pgfplotsliststructureext.code.tex
 ) (C:\MikTek\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex
-\c@pgfplotsarray@tmp=\count323
+\c@pgfplotsarray@tmp=\count322
 )
 (C:\MikTek\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex)
 (C:\MikTek\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex
-\c@pgfplotstable@counta=\count324
+\c@pgfplotstable@counta=\count323
 \t@pgfplotstable@a=\toks49
 )
 (C:\MikTek\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex)
@@ -1118,7 +1117,7 @@ ex (C:\MikTek\tex/generic/pgf/libraries\pgflibraryfpu.code.tex))
 (C:\MikTek\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex))
 (C:\MikTek\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex)
 (C:\MikTek\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.tex
-\c@pgfplotslibrarysurf@no=\count325
+\c@pgfplotslibrarysurf@no=\count324
 
 (C:\MikTek\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-pdfte
 x.def))) (C:\MikTek\tex/generic/pgfplots/util\pgfplotscolormap.code.tex
@@ -1140,7 +1139,7 @@ code.tex (C:\MikTek\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
 \pgfdecoratedinputsegmentcompleteddistance=\dimen306
 \pgfdecoratedinputsegmentremainingdistance=\dimen307
 \pgf@decorate@distancetomove=\dimen308
-\pgf@decorate@repeatstate=\count326
+\pgf@decorate@repeatstate=\count325
 \pgfdecorationsegmentamplitude=\dimen309
 \pgfdecorationsegmentlength=\dimen310
 )
@@ -1155,7 +1154,7 @@ pathreplacing.code.tex
 (C:\MikTek\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathrepl
 acing.code.tex))
 (C:\MikTek\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourlua.code.tex)
-\pgfplots@numplots=\count327
+\pgfplots@numplots=\count326
 \pgfplots@xmin@reg=\dimen311
 \pgfplots@xmax@reg=\dimen312
 \pgfplots@ymin@reg=\dimen313
@@ -1189,14 +1188,14 @@ File: pgflibrarypatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 Package: babel 2021/07/22 3.63 The Babel package
  (C:\MikTek\tex/generic/babel\babel.def
 File: babel.def 2021/07/22 3.63 Babel common definitions
-\babel@savecnt=\count328
+\babel@savecnt=\count327
 \U@D=\dimen317
 \l@unhyphenated=\language79
 
 (C:\MikTek\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read3
 )
-\bbl@dirlevel=\count329
+\bbl@dirlevel=\count328
 
 *************************************
 * Local config file bblopts.cfg used
@@ -1213,9 +1212,9 @@ Language: nil 2021/07/22 3.63 Nil language
 ))
 (C:\MikTek\tex/latex/appendix\appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
-\c@@pps=\count330
-\c@@ppsavesec=\count331
-\c@@ppsaveapp=\count332
+\c@@pps=\count329
+\c@@ppsavesec=\count330
+\c@@ppsaveapp=\count331
 )
 (C:\MikTek\tex/latex/listingsutf8\listingsutf8.sty
 Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
@@ -1224,7 +1223,19 @@ Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 ))
-(Front matter/Title Page v3.tex
+
+! LaTeX Error: Command \bibname undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 \renewcommand{\bibname}
+                            {\textit{Bibliography}}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+(Front matter/Title Page v5.tex
 
 ! LaTeX Error: Missing \begin{document}.
 
@@ -1248,7 +1259,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.43         \hline
+l.49         \hline
                    
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -1256,7 +1267,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 \set@color ...\@pdfcolorstack push{\current@color 
                                                   }\aftergroup \reset@color 
-l.47 \end{titlepage}
+l.53 \end{titlepage}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1267,7 +1278,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \set@color ...\@pdfcolorstack push{\current@color 
                                                   }\aftergroup \reset@color 
-l.47 \end{titlepage}
+l.53 \end{titlepage}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1311,16 +1322,16 @@ LaTeX Font Info:    ... okay on input line 83.
 
 (C:\MikTek\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count333
+\scratchcounter=\count332
 \scratchdimen=\dimen318
 \scratchbox=\box78
-\nofMPsegments=\count334
-\nofMParguments=\count335
+\nofMPsegments=\count333
+\nofMParguments=\count334
 \everyMPshowfont=\toks50
-\MPscratchCnt=\count336
+\MPscratchCnt=\count335
 \MPscratchDim=\dimen319
-\MPnumerator=\count337
-\makeMPintoPDFobject=\count338
+\MPnumerator=\count336
+\makeMPintoPDFobject=\count337
 \everyMPtoPDFconversion=\toks51
 ) (C:\MikTek\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1341,7 +1352,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (C:\MikTek\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count339
+\c@section@level=\count338
 )
 LaTeX Info: Redefining \ref on input line 83.
 LaTeX Info: Redefining \pageref on input line 83.
@@ -1350,7 +1361,7 @@ LaTeX Info: Redefining \nameref on input line 83.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-\c@lstlisting=\count340
+\c@lstlisting=\count339
 
 Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.18} (current compat level: 1.17).
@@ -1384,92 +1395,89 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.86 
-      [1]
+l.87 \newpage
+              [1]
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.87 \tableofcontents
+l.89 \tableofcontents
                      
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
-(main.toc)
+(main.toc [2])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.88 \clearpage
-                [1] (Sections/Abstract.tex)
-Overfull \hbox (44.2033pt too wide) in paragraph at lines 1--96
-\OT1/cmr/m/it/12 important concepts and fields of study in \OT1/cmr/bx/it/12 ca
-lculus\OT1/cmr/m/it/12 , \OT1/cmr/bx/it/12 number theory\OT1/cmr/m/it/12 , \OT1
-/cmr/bx/it/12 combinatorics
+ [3] (Sections/Abstract.tex) (Sections/Introduction.tex
+Overfull \hbox (15.26292pt too wide) in paragraph at lines 4--5
+\OT1/cmr/bx/it/12 Engineering\OT1/cmr/m/it/12 . The fundamental concepts of the
+ \OT1/cmr/bx/it/12 Laplace transform\OT1/cmr/m/it/12 , \OT1/cmr/bx/it/12 Fourie
+r
  []
 
 
-Overfull \hbox (3.0284pt too wide) in paragraph at lines 1--96
-\OT1/cmr/m/it/12 also discuss the \OT1/cmr/bx/it/12 optimal methods \OT1/cmr/m/
-it/12 through which the transform can be applied
+Overfull \hbox (12.8816pt too wide) in paragraph at lines 4--5
+\OT1/cmr/m/it/12 which implies that \OT1/cmr/bx/it/12 modern day computers \OT1
+/cmr/m/it/12 and \OT1/cmr/bx/it/12 computational technology
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.96 \end{abstract}
-                    [1
+) (Sections/Aim.tex)
+Overfull \hbox (8.89542pt too wide) in paragraph at lines 1--109
+\OT1/cmr/bx/it/12 Fourier transform \OT1/cmr/m/it/12 and the \OT1/cmr/bx/it/12 
+Fourier series\OT1/cmr/m/it/12 , if so what is its \OT1/cmr/bx/it/12 mathematic
+al
+ []
+
+
+Overfull \hbox (14.01007pt too wide) in paragraph at lines 1--109
+\OT1/cmr/bx/it/12 significance \OT1/cmr/m/it/12 and how can it be optimally use
+d to solve \OT1/cmr/bx/it/12 Ordinary Differential
+ []
+
+(Sections/Background Research Mod 2.tex
+(Sections//./Generalized form of a Differential Equation.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 3.
+
+
+Overfull \hbox (0.79808pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/12 An Ordinary Differential Equation in one variable is generally
+ mathematically
+ []
+
+[4
 
 ]
-Chapter 1.
-(Sections/Introduction.tex
-Overfull \hbox (26.53986pt too wide) in paragraph at lines 4--5
-\OT1/cmr/bx/it/12 processing\OT1/cmr/m/it/12 ", without which any sort of \OT1/
-cmr/bx/it/12 communication\OT1/cmr/m/it/12 , through any \OT1/cmr/bx/it/12 elec
-trical
- []
-
-
-Overfull \hbox (12.24919pt too wide) in paragraph at lines 4--5
-\OT1/cmr/m/it/12 and \OT1/cmr/bx/it/12 computational technology \OT1/cmr/m/it/1
-2 that exists today would also \OT1/cmr/bx/it/12 not be existent\OT1/cmr/m/it/1
-2 . 
- []
-
-)
-Chapter 2.
-(Sections/Aim.tex)
-Overfull \hbox (6.14636pt too wide) in paragraph at lines 1--107
-\OT1/cmr/m/it/12 controlled setting of a \OT1/cmr/bx/it/12 damped elastic harmo
-nic oscillator \OT1/cmr/m/it/12 and to compare
- []
-
-
-Overfull \hbox (11.33675pt too wide) in paragraph at lines 1--107
-\OT1/cmr/bx/it/12 states \OT1/cmr/m/it/12 and further to study its \OT1/cmr/bx/
-it/12 sensitivity \OT1/cmr/m/it/12 to \OT1/cmr/bx/it/12 initial conditions \OT1
-/cmr/m/it/12 and calculate
- []
-
-
-Overfull \hbox (10.49489pt too wide) in paragraph at lines 1--107
-\OT1/cmr/m/it/12 the value the \OT1/cmr/bx/it/12 inconsistencies \OT1/cmr/m/it/
-12 in \OT1/cmr/bx/it/12 accuracy \OT1/cmr/m/it/12 of the \OT1/cmr/bx/it/12 math
-ematically modeled
- []
-
-Chapter 3.
-(Sections/Background Research Mod 2.tex (Sections//./Types of Domains.texpdfTeX
- warning (ext4): destination with the same identifier (name{page.1}) has been a
-lready used, duplicate ignored
+! Display math should end with $$.
 <to be read again> 
-                   \relax 
-l.8 	
-      [1]) (Sections//./The Laplace Transform.tex [2])
-(Sections//./The Fourier Transform.tex
+                    
+l.7 ...\dot{y}\bigg)^f + a_{0}\bigg(y\bigg)^g = c$
+                                                  
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+
+Overfull \hbox (3.45366pt too wide) in paragraph at lines 31--32
+\OT1/cmr/m/it/12 differentiate differential equation with other forms of the di
+fferential equations.
+ []
+
+) (Sections//./Types of Ordinary Differential Equations.tex [5]
+Overfull \hbox (28.53722pt too wide) in paragraph at lines 13--14
+\OT1/cmr/m/it/12 An Ordinary Differential equation is said to be non-linear whe
+n the degree/exponent
+ []
+
+
+Overfull \hbox (8.5537pt too wide) in paragraph at lines 13--14
+\OT1/cmr/m/it/12 differential equation is a non-differentiable function of in t
+he principal function,
+ []
+
+) (Sections//./Types of Domains.tex [6]) (Sections//./The Laplace Transform.tex
+) (Sections//./The Fourier Transform.tex
 Overfull \hbox (4.81482pt too wide) in paragraph at lines 5--6
 \OT1/cmr/m/it/12 The Fourier Transform is also an integral transform that trans
 forms a function
@@ -1481,11 +1489,34 @@ Overfull \hbox (7.26471pt too wide) in paragraph at lines 5--6
 ier transform
  []
 
-
+[7]
 Overfull \hbox (7.65367pt too wide) in paragraph at lines 11--12
 \OT1/cmr/m/it/12 that this transform can be used to compute the solutions of di
 fferential equations
  []
+
+) (Sections//./Trigonometric Series.tex
+! Missing } inserted.
+<inserted text> 
+                }
+l.13 ...cdot\int_L{f(x)\cdot\cos\left(nx\right)dx$
+                                                  $
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.15 ...cdot\int_L{f(x)\cdot\sin\left(nx\right)dx$
+                                                  $
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
 ) (Sections//./The Fourier Series.tex
 Overfull \hbox (15.015pt too wide) in paragraph at lines 5--6
@@ -1493,7 +1524,7 @@ Overfull \hbox (15.015pt too wide) in paragraph at lines 5--6
 inusoidal functions
  []
 
-[3]
+[8]
 ! Missing } inserted.
 <inserted text> 
                 }
@@ -1505,13 +1536,125 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
+! Missing } inserted.
+<inserted text> 
+                }
+l.27 ...pi}^{+\pi}{f(x)\cdot\cos\left(nx\right)dx$
+                                                  $
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.29 ...pi}^{+\pi}{f(x)\cdot\cos\left(nx\right)dx$
+                                                  $
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+) (Sections//./Parseval's Theorem.tex [9]))
+Overfull \hbox (15.82709pt too wide) in paragraph at lines 150--150
+|[]\OT1/cmr/bx/it/17.28 Representation of the transforms and series| 
+ []
+
+(Sections/Representation of the transforms and series.tex
+(Sections//./Analytical representation of the transforms and series.tex
+Overfull \hbox (2.07698pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/12 When analyzing and investigating the Laplace transform, which 
+was previously
+ []
+
+) (Sections//./Graphical representation of the transforms and series.tex
+<Sections//LapPictures/bk.png, id=231, 910.40125pt x 688.5725pt>
+File: Sections//LapPictures/bk.png Graphic file (type png)
+<use Sections//LapPictures/bk.png>
+Package pdftex.def Info: Sections//LapPictures/bk.png  used on input line 13.
+(pdftex.def)             Requested size: 426.79134pt x 322.79907pt.
+
+Overfull \hbox (36.79134pt too wide) in paragraph at lines 13--14
+ [][] 
+ []
+
+[10]
+<Sections//FouPictures/bk.png, id=236, 910.40125pt x 688.5725pt>
+File: Sections//FouPictures/bk.png Graphic file (type png)
+<use Sections//FouPictures/bk.png>
+Package pdftex.def Info: Sections//FouPictures/bk.png  used on input line 23.
+(pdftex.def)             Requested size: 426.79134pt x 322.79907pt.
+
+Overfull \hbox (36.79134pt too wide) in paragraph at lines 23--24
+ [][] 
+ []
+
+[11 <./Sections//LapPictures/bk.png (PNG copy)>]
+
+! LaTeX Error: File `' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 			\includegraphics[width=15cm]{}
+                                      
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 ))
-Chapter 4.
-(Sections/Effects of the transforms & Series on various functions.tex)
-Chapter 5.
-(Sections/Limitations of Study.tex [4])
-Chapter 6.
-(Sections/Conclusion.tex
+Overfull \hbox (8.1806pt too wide) in paragraph at lines 154--154
+|[]\OT1/cmr/bx/it/17.28 Solving ODE's using transforms and series| 
+ []
+
+(Sections/Solving ODE's using transforms and series.tex [12 <./Sections//FouPic
+tures/bk.png (PNG copy)>]
+
+! LaTeX Error: \begin{multline*} on input line 29 ended by \end{multline}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 			\end{multline}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{multline*} on input line 35 ended by \end{multline}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 			\end{multline}
+                      		
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[13]
+
+! LaTeX Error: \begin{multline*} on input line 45 ended by \end{multline}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 			\end{multline}
+                      	
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+) (Sections/Limitations of Study.tex [14]) (Sections/Conclusion.tex
 Overfull \hbox (3.10847pt too wide) in paragraph at lines 1--2
 \OT1/cmr/bx/it/12 pendulum \OT1/cmr/m/it/12 oscillating in a fluid medium (Air(
 Damped motion)) on the \OT1/cmr/bx/it/12 radial
@@ -1524,82 +1667,31 @@ lacement\OT1/cmr/m/it/12 , \OT1/cmr/bx/it/12 angular frequency \OT1/cmr/m/it/12
  and \OT1/cmr/bx/it/12 absolute
  []
 
-[5]) [6] (Works Cited/Bib.tex
-Underfull \hbox (badness 1715) in paragraph at lines 7--8
-\OT1/cmr/m/it/12 Tool Box\OT1/cmr/m/n/12 , Engineering Tool Box, []$\OT1/cmtt/m
-/n/12 www . engineeringtoolbox . com /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-\OT1/cmtt/m/n/12 fluid-[]density-[]temperature-[]pressure-[]d _ 309 . html$[]\O
-T1/cmr/m/n/12 . Accessed 10
- []
-
-
-Underfull \hbox (badness 3343) in paragraph at lines 11--12
-\OT1/cmr/m/n/12 2014, []$\OT1/cmtt/m/n/12 commons . wikimedia . org / wiki / Fi
-le : Flow _ patterns _ around _
- []
-
-
-Underfull \hbox (badness 1199) in paragraph at lines 32--33
-[]\OT1/cmr/m/n/12 \1. History of Dynamics; Motion in Moving Reference Frames."
- []
-
-! Misplaced alignment tab character &.
-l.167 ...sers}. Abingdon, United Kingdom, Taylor &
-                                                   Francis, 2014.
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 173--174
-[]\OT1/cmr/m/n/12 Hayek, Sabih I. \Mechanical Vibration and Damping."
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 173--174
-\OT1/cmr/m/it/12 Digital Encyclopedia of Applied Physics\OT1/cmr/m/n/12 , 2003.
- \OT1/cmr/m/it/12 Crossref\OT1/cmr/m/n/12 ,
- []
-
-[7
-
-]
-Underfull \hbox (badness 1728) in paragraph at lines 179--180
-[]\OT1/cmr/m/n/12 Serway, Raymond, and John Jewett. \OT1/cmr/m/it/12 Physics fo
-r Scientists and
- []
-
-) [8] (main.aux)
+) [15] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F51B496D3D0771D260B74E1EB42E54E1;2478.
+(rerunfilecheck)             Checksum: 008663609634FC13AAD4B477E8038EF2;6227.
  ) 
 Here is how much of TeX's memory you used:
- 36475 strings out of 478868
- 805609 string characters out of 2865271
- 1297746 words of memory out of 3000000
- 53643 multiletter control sequences out of 15000+600000
- 421404 words of font info for 90 fonts, out of 8000000 for 9000
+ 36568 strings out of 478868
+ 809871 string characters out of 2865271
+ 1308115 words of memory out of 3000000
+ 53705 multiletter control sequences out of 15000+600000
+ 422241 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,6n,89p,1195b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 84i,11n,89p,1195b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\Sayeed Ahmad\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi6
-00\tcrm1200.pk><C:/MikTek/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/MikTek/
-fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/MikTek/fonts/type1/public/amsfo
-nts/cm/cmex10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/MikT
-ek/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/MikTek/fonts/type1/public/amsfo
-nts/cm/cmr12.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/MikTek/
-fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/MikTek/fonts/type1/public/amsfont
-s/cm/cmsy8.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/MikTek/
-fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (12 pages, 183120 bytes).
+00\tcrm1200.pk><C:/MikTek/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/MikTek/
+fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/MikTek/fonts/type1/public/amsfont
+s/cm/cmbxti10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/MikT
+ek/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/MikTek/fonts/type1/public/amsf
+onts/cm/cmmi8.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/MikTe
+k/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/MikTek/fonts/type1/public/amsfont
+s/cm/cmr8.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/MikTek/f
+onts/type1/public/amsfonts/cm/cmsy8.pfb><C:/MikTek/fonts/type1/public/amsfonts/
+cm/cmti10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on main.pdf (16 pages, 537317 bytes).
 PDF statistics:
- 236 PDF objects out of 1000 (max. 8388607)
- 43 named destinations out of 1000 (max. 500000)
- 141 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 334 PDF objects out of 1000 (max. 8388607)
+ 53 named destinations out of 1000 (max. 500000)
+ 295 words of extra memory for PDF output out of 10000 (max. 10000000)
 

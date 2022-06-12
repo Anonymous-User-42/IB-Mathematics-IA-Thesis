@@ -1,6 +1,62 @@
 
 
-\input{./Linear ODE}	
+\subsection{\textit{Linear ODE}}
+
+	\textit{When dealing with linear ODE's, applying integral transforms and or series to decompose terms in the ODE into sum of infinitesimal sines and cosines is made possible with ease.} 
 	
-\input{./Non-Linear ODE}
+	\textit{This is because the Laplace and the Fourier transforms are linear operators, and consequently can be only applied when an ODE is linear, as for the Fourier series, it can be applied on linear or non-linear ODE's, whereas a linearized ODE simplifies the decomposition process of terms in an ODE.}
+
+	\textit{To further explain this concept, I shall be utilizing an linear ODE as an example. Namely,}
+	
+		$$a_3\dddot{y} + a_2\ddot{y} + a_1\dot{y} + a_0y = c$$
+
+	\textit{Where, $a_1$, $a_2$, $a_3$ and c are some arbitrary constants or functions of some arbitrary variable, other than the principal function, y.}
+
+	\subsubsection{\textit{The Laplace Transform}}	
+		
+		\textit{Applying the Laplace transform on the ODE (assuming that $a_n$'s and c are arbitrary constants) we have,}
+		
+			$$\mathcal{L}\{a_3\dddot{y} + a_2\ddot{y} + a_1\dot{y} + a_0y\} = \mathcal{L}\{c\}$$		
+			
+		\textit{Because the Laplace transform is an linear operator, it can be said that the Laplace transform of the whole expression is the sum of the Laplace transform of individual terms, also that the Laplace transform of any constant/function multiplied by the function of the principal function is the Laplace transform of the function of the principal function times the constant/function.}			
+			
+		\textit{Therefore, we have}			
+			
+			$$a_3\cdot\mathcal{L}\{\dddot{y}\} + a_2\cdot\mathcal{L}\{\ddot{y}\} + a_1\cdot\mathcal{L}\{\dot{y}\} + a_0\cdot\mathcal{L}\{y\} = \mathcal{L}\{c\}$$
+		
+		\textit{When transformed, this expression equals,}		
+		
+			\begin{multline*}
+				a_3\cdot\left[s^3Y(s) - s^2y(0) - sy^{\prime}(0) - y^{\prime\prime}(0)\right] \\ + a_2\cdot\left[s^2Y(s) - sy(0) - y^{\prime}(0)\right] + a_1\cdot\left[sY(s) - y(0)\right] + a_0\cdot Y(s) = \frac{c}{s}
+			\end{multline}
+		
+		\textit{Rearranging and regrouping the terms we get,}		
+		
+			\begin{multline*}
+				Y(s)\cdot\left[a_3s^3 + a_2s^2 + a_1s + a_0\right] - y(0)\cdot\left[a_3s^2 + a_2s + a_1\right] \\ - y^{\prime}(0)\cdot\left[a_3s + a_2\right] - a_3\cdot y^{\prime\prime}(0) = \frac{c}{s}
+			\end{multline}		
+		
+		\textit{We see that, in the above equation, everything is an arbitrary constant, except $Y(s)$. Also we need not worry about s, which is the complex frequency variable, we call later transform it back to the time variable/real variable. Isolating $Y(s)$, we have,}
+		
+			$$Y(s) = \frac{y(0)\cdot\left[a_3s^3 + a_2s^2 + a_1s\right] + y^{\prime}(0)\cdot\left[a_3s^2 + a_2s\right] + a_3\cdot sy^{\prime\prime}(0) + c}{a_3s^4 + a_2s^3 + a_1s^2 + a_0s}$$
+		
+		\textit{Therefore, we have,}
+		
+			\begin{multline*}
+				\mathcal{L}^{-1}\{Y(s)\} = y(x) = y = \\ \mathcal{L}^{-1}\left\{\frac{y(0)\cdot\left[a_3s^3 + a_2s^2 + a_1s\right] + y^{\prime}(0)\cdot\left[a_3s^2 + a_2s\right] + a_3\cdot sy^{\prime\prime}(0) + c}{a_3s^4 + a_2s^3 + a_1s^2 + a_0s}\right\}
+			\end{multline}	
+		
+	\subsubsection{\textit{The Fourier Transform}}	
+	
+	\subsubsection{\textit{The Fourier Series}}
+	
+\subsection{\textit{Non-Linear ODE}}
+
+	\textit{*}
+
+	\subsubsection{\textit{Linearization of non-linear ODE}}
+	
+	\subsubsection{\textit{*}}
+	
+	\subsubsection{\textit{*}}
 

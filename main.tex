@@ -1,4 +1,4 @@
-\documentclass[12pt, a4paper]{report}
+\documentclass[12pt, a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage{parskip}
 \usepackage{amsmath}
@@ -76,13 +76,15 @@
 
 
 
-\input{Front matter/Title Page v3}
+\input{Front matter/Title Page v5}
 
 
 
 \begin{document}
 
 \maketitle
+
+\newpage
 
 \tableofcontents
 \clearpage
@@ -97,11 +99,11 @@
 
 
 
-\chapter{\textit{Introduction}}
+\section{\textit{Introduction}}
         
         \import{Sections}{Introduction}
         
-\chapter{\textit{Aim}}
+\section{\textit{Aim}}
         
         \import{Sections}{Aim}
         
@@ -117,7 +119,7 @@
         
 %        \import{Sections}{The Fourier Transform}        
         
-\chapter{\textit{Background Research}}
+\section{\textit{Background Research}}
         
         \import{Sections}{Background Research Mod 2}
         
@@ -144,10 +146,18 @@
 %\chapter{\textit{Equations}}
         
 %        \import{Sections}{Equation}
+
+\section{\textit{Representation of the transforms and series}}
+
+	\import{Sections}{Representation of the transforms and series}
+
+\section{\textit{Solving ODE's using transforms and series}}
+
+	\import{Sections}{Solving ODE's using transforms and series}
         
-\chapter{\textit{Effects of the transforms \& Series on various functions}}
+%\chapter{\textit{Effects of the transforms \& Series on various functions}}
         
-        \import{Sections}{Effects of the transforms & Series on various functions}        
+%        \import{Sections}{Effects of the transforms & Series on various functions}        
         
 %\chapter{\textit{Experimental Data}}
         
@@ -179,7 +189,7 @@
         
 %        \import{Sections}{Evaluation}
         
-\chapter{\textit{Limitations of Study}}
+\section{\textit{Limitations of Study}}
         
         \import{Sections}{Limitations of Study}
         
@@ -187,7 +197,7 @@
         
 %        \import{Sections}{Sources of Error}
         
-\chapter{\textit{Conclusion}}
+\section{\textit{Conclusion}}
         
         \import{Sections}{Conclusion}
         
@@ -195,10 +205,12 @@
         
 \clearpage
 
-\import{Works Cited}{Bib}
+%\import{Works Cited}{Bib}
 
 
 \clearpage
+
+%\appendixpage
 
 %\appendix
 
