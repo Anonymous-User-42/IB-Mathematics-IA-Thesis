@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  1 APR 2022 16:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  3 APR 2022 01:23
 entering extended mode
 **./main.tex
 (main.tex
@@ -1438,7 +1438,7 @@ ng and understanding
  []
 
 ) (Sections/Travel Time between two points.tex
-<Sections//BrachPoints.jpg, id=51, 511.9125pt x 157.33781pt>
+<Sections//BrachPoints.jpg, id=35, 511.9125pt x 157.33781pt>
 File: Sections//BrachPoints.jpg Graphic file (type jpg)
 <use Sections//BrachPoints.jpg>
 Package pdftex.def Info: Sections//BrachPoints.jpg  used on input line 5.
@@ -1468,15 +1468,15 @@ te path length spanning
  []
 
 [3]
-<Sections//OrgProbDia.jpg, id=74, 696.35156pt x 440.39531pt>
+<Sections//OrgProbDia.jpg, id=58, 696.35156pt x 440.39531pt>
 File: Sections//OrgProbDia.jpg Graphic file (type jpg)
 <use Sections//OrgProbDia.jpg>
 Package pdftex.def Info: Sections//OrgProbDia.jpg  used on input line 74.
 (pdftex.def)             Requested size: 369.88582pt x 233.92583pt.
  [4 <./Sections//OrgProbDia.jpg>]) (Sections/Euler-Lagrange Equation.tex
 Overfull \hbox (23.72125pt too wide) in paragraph at lines 3--4
-\OT1/ptm/m/n/12 Though Newton and Bernoulli's solutions were fabulous and stunn
-ing, they approached
+[]\OT1/ptm/m/n/12 Though Newton and Bernoulli's solutions were fabulous and stu
+nning, they approached
  []
 
 
@@ -1524,12 +1524,13 @@ Overfull \hbox (6.93245pt too wide) in paragraph at lines 9--10
 from the bottom of the circle, the above standard equations
  []
 
-[7]
+
 Overfull \hbox (30.14023pt too wide) in paragraph at lines 23--24
 []\OT1/ptm/m/n/12 However in the \OT1/ptm/m/it/12 y \OT1/ptm/m/n/12 direction, 
 the only correction that needs to be done is the generalization,
  []
 
+[7]
 
 ! Package array Error:  Illegal pream-token (1): `c' used.
 
@@ -1572,7 +1573,7 @@ blem,
  []
 
 [11]
-<Sections//cycplt.jpg, id=131, 664.73344pt x 455.45157pt>
+<Sections//cycplt.jpg, id=116, 664.73344pt x 455.45157pt>
 File: Sections//cycplt.jpg Graphic file (type jpg)
 <use Sections//cycplt.jpg>
 Package pdftex.def Info: Sections//cycplt.jpg  used on input line 45.
@@ -1582,8 +1583,13 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 45--46
  [][] 
  []
 
-[12] [13 <./Sections//cycplt.jpg>]
-<Sections//BrachDia.png, id=144, 462.528pt x 346.896pt>
+[12 <./Sections//cycplt.jpg>]
+Overfull \hbox (6.00887pt too wide) in paragraph at lines 65--66
+\OT1/ptm/m/n/12 algorithm known as the Runge-Kutta Fourth Order, simply RK4 to 
+find and estimate
+ []
+
+<Sections//BrachDia.png, id=124, 462.528pt x 346.896pt>
 File: Sections//BrachDia.png Graphic file (type png)
 <use Sections//BrachDia.png>
 Package pdftex.def Info: Sections//BrachDia.png  used on input line 71.
@@ -1593,13 +1599,13 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 71--72
  [][] 
  []
 
-[14 <./Sections//BrachDia.png>]) (Sections/Conclusion v2.tex
+[13]) (Sections/Conclusion v2.tex
 Overfull \hbox (19.06416pt too wide) in paragraph at lines 15--16
 \OT1/ptm/m/n/12 The very fact that this simple-sounding problem was the eventua
 l reason for significant
  []
 
-
+[14 <./Sections//BrachDia.png>]
 Overfull \hbox (5.24022pt too wide) in paragraph at lines 17--18
 \OT1/ptm/m/n/12 late one night, Articles, lecture notes, books, physics applica
 tions. In the beginning,
@@ -1611,44 +1617,33 @@ Underfull \hbox (badness 7081) in paragraph at lines 11--12
  scipython . com / blog /
  []
 
-) (Appendix/appdix v2.tex (Appendix/./Python Source Codes v2.tex [16
+) [16
 
-]
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 9.
- [17]
-[18]
-LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 
-115.
- (C:\MikTek\tex/latex/base\ts1cmtt.fd
-File: ts1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-))) [19] (main.aux)
+] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 52C2C538FFE44DB58CDAA9AB5DB94FF9;1655.
+(rerunfilecheck)             Checksum: 1F51A42F91D5D8C93EAB35577B97CF29;921.
  ) 
 Here is how much of TeX's memory you used:
- 37224 strings out of 478868
- 814375 string characters out of 2865271
- 1575115 words of memory out of 3000000
- 54230 multiletter control sequences out of 15000+600000
- 449882 words of font info for 141 fonts, out of 8000000 for 9000
+ 36599 strings out of 478868
+ 807514 string characters out of 2865271
+ 1301114 words of memory out of 3000000
+ 53742 multiletter control sequences out of 15000+600000
+ 447325 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,9n,94p,1195b,2116s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\Sayeed Ahmad\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi6
-00\tctt1000.pk>{C:/MikTek/fonts/enc/dvips/base/8r.enc}<C:/MikTek/fonts/type1/pu
-blic/amsfonts/cm/cmbxti10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmex10.
-pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/MikTek/fonts/type1
-/public/amsfonts/cm/cmr10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmsy10.
-pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/MikTek/fonts/type1
-/public/amsfonts/cm/cmtt10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmtt12
-.pfb><C:/MikTek/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/MikTek/fonts
-/type1/urw/symbol/usyr.pfb><C:/MikTek/fonts/type1/urw/symbol/usyr.pfb><C:/MikTe
-k/fonts/type1/urw/times/utmb8a.pfb><C:/MikTek/fonts/type1/urw/times/utmbi8a.pfb
-><C:/MikTek/fonts/type1/urw/times/utmr8a.pfb><C:/MikTek/fonts/type1/urw/times/u
-tmri8a.pfb>
-Output written on main.pdf (20 pages, 444987 bytes).
+ 84i,9n,89p,1195b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/MikTek/fonts/enc/dvips/base/8r.enc}<C:/MikTek/fonts/type1/public/amsfonts
+/cm/cmbxti10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/MikTe
+k/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/MikTek/fonts/type1/public/amsfo
+nts/cm/cmr10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/MikTe
+k/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/MikTek/fonts/type1/public/amsfo
+nts/cm/cmtt12.pfb><C:/MikTek/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:
+/MikTek/fonts/type1/urw/symbol/usyr.pfb><C:/MikTek/fonts/type1/urw/symbol/usyr.
+pfb><C:/MikTek/fonts/type1/urw/times/utmb8a.pfb><C:/MikTek/fonts/type1/urw/time
+s/utmbi8a.pfb><C:/MikTek/fonts/type1/urw/times/utmr8a.pfb><C:/MikTek/fonts/type
+1/urw/times/utmri8a.pfb>
+Output written on main.pdf (17 pages, 395628 bytes).
 PDF statistics:
- 398 PDF objects out of 1000 (max. 8388607)
- 158 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 224 PDF objects out of 1000 (max. 8388607)
+ 39 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
