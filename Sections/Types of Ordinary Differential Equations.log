@@ -1,0 +1,1047 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  2 OCT 2021 17:47
+entering extended mode
+**"./Types of Ordinary Differential Equations.tex"
+(Types of Ordinary Differential Equations.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-07-12>
+! Undefined control sequence.
+l.3 \section
+            {\textit{Types of Ordinary Differential Equations}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...t{Types of Ordinary Differential Equations}
+                                                  }
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (44.53314pt too wide) in paragraph at lines 3--4
+[]\OT1/cmr/m/it/10 Types
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/it/10 of
+ []
+
+
+Overfull \hbox (15.461pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/it/10 Or-
+ []
+
+
+Overfull \hbox (11.75548pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/it/10 di-
+ []
+
+
+Overfull \hbox (19.80542pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/it/10 nary
+ []
+
+
+Overfull \hbox (17.26099pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/it/10 Dif-
+ []
+
+
+Overfull \hbox (15.46098pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/it/10 fer-
+ []
+
+
+Overfull \hbox (13.7999pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/it/10 en-
+ []
+
+
+Overfull \hbox (14.05547pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/it/10 tial
+ []
+
+
+Overfull \hbox (25.43872pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/it/10 Equa-
+ []
+
+
+Overfull \hbox (22.0318pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/it/10 tions 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...quation, order and degree of the equation.}
+                                                  	
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (45.17201pt too wide) in paragraph at lines 5--6
+[]\OT1/cmr/m/it/10 There
+ []
+
+
+Overfull \hbox (13.41655pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 are
+ []
+
+
+Overfull \hbox (17.50542pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 var-
+ []
+
+
+Overfull \hbox (6.6444pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 i-
+ []
+
+
+Overfull \hbox (14.56659pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 ous
+ []
+
+
+Overfull \hbox (21.46649pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 types
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 of
+ []
+
+
+Overfull \hbox (15.461pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 Or-
+ []
+
+
+Overfull \hbox (11.75548pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 di-
+ []
+
+
+Overfull \hbox (19.80542pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 nary
+ []
+
+
+Overfull \hbox (17.26099pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 Dif-
+ []
+
+
+Overfull \hbox (15.46098pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 fer-
+ []
+
+
+Overfull \hbox (13.7999pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 en-
+ []
+
+
+Overfull \hbox (14.05547pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 tial
+ []
+
+
+Overfull \hbox (25.43872pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 Equa-
+ []
+
+
+Overfull \hbox (21.21098pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 tions
+ []
+
+
+Overfull \hbox (22.48871pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 based
+ []
+
+
+Overfull \hbox (10.73328pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 on
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (16.86653pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 spe-
+ []
+
+
+Overfull \hbox (17.88876pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 cific
+ []
+
+
+Overfull \hbox (15.84433pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 val-
+ []
+
+
+Overfull \hbox (59.03297pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 ues/functions
+ []
+
+
+Overfull \hbox (16.86655pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 that
+ []
+
+
+Overfull \hbox (11.88321pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 re-
+ []
+
+
+Overfull \hbox (21.4665pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 place
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (15.84433pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 val-
+ []
+
+
+Overfull \hbox (14.05547pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 ues
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 of
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (12.77766pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 co-
+ []
+
+
+Overfull \hbox (11.24435pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 ef-
+ []
+
+
+Overfull \hbox (9.19994pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 fi-
+ []
+
+
+Overfull \hbox (25.29982pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 cients
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 of
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (14.82213pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 dif-
+ []
+
+
+Overfull \hbox (15.46098pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 fer-
+ []
+
+
+Overfull \hbox (13.7999pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 en-
+ []
+
+
+Overfull \hbox (14.05547pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 tial
+ []
+
+
+Overfull \hbox (22.74426pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 equa-
+ []
+
+
+Overfull \hbox (20.18877pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 tion,
+ []
+
+
+Overfull \hbox (12.90546pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 or-
+ []
+
+
+Overfull \hbox (13.92767pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 der
+ []
+
+
+Overfull \hbox (15.84436pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 and
+ []
+
+
+Overfull \hbox (13.28879pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 de-
+ []
+
+
+Overfull \hbox (16.99426pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 gree
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 of
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (22.74426pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 equa-
+ []
+
+
+Overfull \hbox (20.18877pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 tion. 
+ []
+
+! Undefined control sequence.
+l.7 	\subsection
+                {\textit{Linear Ordinary Differential Equations}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...tit{Linear Ordinary Differential Equations}
+                                                  }
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (48.37756pt too wide) in paragraph at lines 7--8
+[]\OT1/cmr/m/it/10 Linear
+ []
+
+
+Overfull \hbox (15.461pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/it/10 Or-
+ []
+
+
+Overfull \hbox (11.75548pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/it/10 di-
+ []
+
+
+Overfull \hbox (19.80542pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/it/10 nary
+ []
+
+
+Overfull \hbox (17.26099pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/it/10 Dif-
+ []
+
+
+Overfull \hbox (15.46098pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/it/10 fer-
+ []
+
+
+Overfull \hbox (13.7999pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/it/10 en-
+ []
+
+
+Overfull \hbox (14.05547pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/it/10 tial
+ []
+
+
+Overfull \hbox (25.43872pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/it/10 Equa-
+ []
+
+
+Overfull \hbox (22.0318pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/it/10 tions 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...fferential functions in the base variable.}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (48.37756pt too wide) in paragraph at lines 9--10
+[]\OT1/cmr/m/it/10 Linear
+ []
+
+
+Overfull \hbox (15.461pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 Or-
+ []
+
+
+Overfull \hbox (11.75548pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 di-
+ []
+
+
+Overfull \hbox (19.80542pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 nary
+ []
+
+
+Overfull \hbox (17.26099pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 Dif-
+ []
+
+
+Overfull \hbox (15.46098pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 fer-
+ []
+
+
+Overfull \hbox (13.7999pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 en-
+ []
+
+
+Overfull \hbox (14.05547pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 tial
+ []
+
+
+Overfull \hbox (25.43872pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 Equa-
+ []
+
+
+Overfull \hbox (21.21098pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 tions
+ []
+
+
+Overfull \hbox (13.41655pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 are
+ []
+
+
+Overfull \hbox (14.82213pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 dif-
+ []
+
+
+Overfull \hbox (15.46098pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 fer-
+ []
+
+
+Overfull \hbox (13.7999pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 en-
+ []
+
+
+Overfull \hbox (14.05547pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 tial
+ []
+
+
+Overfull \hbox (22.74426pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 equa-
+ []
+
+
+Overfull \hbox (21.21098pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 tions
+ []
+
+
+Overfull \hbox (27.72757pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 where,
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (13.28879pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 de-
+ []
+
+
+Overfull \hbox (16.99426pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 gree
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 of
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (14.82213pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 dif-
+ []
+
+
+Overfull \hbox (15.46098pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 fer-
+ []
+
+
+Overfull \hbox (13.7999pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 en-
+ []
+
+
+Overfull \hbox (14.05547pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 tial
+ []
+
+
+Overfull \hbox (22.74426pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 equa-
+ []
+
+
+Overfull \hbox (17.12212pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 tion
+ []
+
+
+Overfull \hbox (7.15552pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 is
+ []
+
+
+Overfull \hbox (5.11108pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 1
+ []
+
+
+Overfull \hbox (15.84436pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 and
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (12.77766pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 co-
+ []
+
+
+Overfull \hbox (11.24435pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 ef-
+ []
+
+
+Overfull \hbox (9.19994pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 fi-
+ []
+
+
+Overfull \hbox (25.29982pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 cients
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 of
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (14.82213pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 dif-
+ []
+
+
+Overfull \hbox (15.46098pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 fer-
+ []
+
+
+Overfull \hbox (13.7999pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 en-
+ []
+
+
+Overfull \hbox (14.05547pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 tial
+ []
+
+
+Overfull \hbox (22.74426pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 equa-
+ []
+
+
+Overfull \hbox (17.12212pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 tion
+ []
+
+
+Overfull \hbox (13.41655pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 are
+ []
+
+
+Overfull \hbox (21.97765pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 some
+ []
+
+
+Overfull \hbox (12.90546pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 ar-
+ []
+
+
+Overfull \hbox (11.24435pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 bi-
+ []
+
+
+Overfull \hbox (21.21092pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 trary
+ []
+
+
+Overfull \hbox (14.82213pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 dif-
+ []
+
+
+Overfull \hbox (15.46098pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 fer-
+ []
+
+
+Overfull \hbox (13.7999pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 en-
+ []
+
+
+Overfull \hbox (14.05547pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 tial
+ []
+
+
+Overfull \hbox (22.23318pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 func-
+ []
+
+
+Overfull \hbox (21.21098pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 tions
+ []
+
+
+Overfull \hbox (8.68884pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 in
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (17.88875pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 base
+ []
+
+
+Overfull \hbox (20.57207pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 vari-
+ []
+
+
+Overfull \hbox (19.9332pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 able. 
+ []
+
+! Undefined control sequence.
+l.11 	\subsection
+                 {\textit{Non-Linear Ordinary Differential Equations}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...on-Linear Ordinary Differential Equations}
+                                                  }
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (41.74431pt too wide) in paragraph at lines 11--12
+[]\OT1/cmr/m/it/10 Non-
+ []
+
+
+Overfull \hbox (28.37756pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 Linear
+ []
+
+
+Overfull \hbox (15.461pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 Or-
+ []
+
+
+Overfull \hbox (11.75548pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 di-
+ []
+
+
+Overfull \hbox (19.80542pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 nary
+ []
+
+
+Overfull \hbox (17.26099pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 Dif-
+ []
+
+
+Overfull \hbox (15.46098pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 fer-
+ []
+
+
+Overfull \hbox (13.7999pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 en-
+ []
+
+
+Overfull \hbox (14.05547pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 tial
+ []
+
+
+Overfull \hbox (25.43872pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 Equa-
+ []
+
+
+Overfull \hbox (22.0318pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 tions 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{C:/Users/Sayeed Ahmad/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 		\textit{a}
+                 
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (25.87822pt too wide) in paragraph at lines 13--14
+[]\OT1/cmr/m/it/10 a 
+ []
+
+! Undefined control sequence.
+l.15 	\subsection
+                 {\textit{Homogeneous Ordinary Differential Equations}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...mogeneous Ordinary Differential Equations}
+                                                  }
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (78.7996pt too wide) in paragraph at lines 15--16
+[]\OT1/cmr/m/it/10 Homogeneous
+ []
+
+
+Overfull \hbox (15.461pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/it/10 Or-
+ []
+
+
+Overfull \hbox (11.75548pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/it/10 di-
+ []
+
+
+Overfull \hbox (19.80542pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/it/10 nary
+ []
+
+
+Overfull \hbox (17.26099pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/it/10 Dif-
+ []
+
+
+Overfull \hbox (15.46098pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/it/10 fer-
+ []
+
+
+Overfull \hbox (13.7999pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/it/10 en-
+ []
+
+
+Overfull \hbox (14.05547pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/it/10 tial
+ []
+
+
+Overfull \hbox (25.43872pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/it/10 Equa-
+ []
+
+
+Overfull \hbox (22.0318pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/it/10 tions 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 		\textit{a}
+                 
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (25.87822pt too wide) in paragraph at lines 17--18
+[]\OT1/cmr/m/it/10 a 
+ []
+
+! Undefined control sequence.
+l.19 	\subsection
+                 {\textit{Heterogeneous Ordinary Differential Equations}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...rogeneous Ordinary Differential Equations}
+                                                  }
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (81.7384pt too wide) in paragraph at lines 19--20
+[]\OT1/cmr/m/it/10 Heterogeneous
+ []
+
+
+Overfull \hbox (15.461pt too wide) in paragraph at lines 19--20
+\OT1/cmr/m/it/10 Or-
+ []
+
+
+Overfull \hbox (11.75548pt too wide) in paragraph at lines 19--20
+\OT1/cmr/m/it/10 di-
+ []
+
+
+Overfull \hbox (19.80542pt too wide) in paragraph at lines 19--20
+\OT1/cmr/m/it/10 nary
+ []
+
+
+Overfull \hbox (17.26099pt too wide) in paragraph at lines 19--20
+\OT1/cmr/m/it/10 Dif-
+ []
+
+
+Overfull \hbox (15.46098pt too wide) in paragraph at lines 19--20
+\OT1/cmr/m/it/10 fer-
+ []
+
+
+Overfull \hbox (13.7999pt too wide) in paragraph at lines 19--20
+\OT1/cmr/m/it/10 en-
+ []
+
+
+Overfull \hbox (14.05547pt too wide) in paragraph at lines 19--20
+\OT1/cmr/m/it/10 tial
+ []
+
+
+Overfull \hbox (25.43872pt too wide) in paragraph at lines 19--20
+\OT1/cmr/m/it/10 Equa-
+ []
+
+
+Overfull \hbox (22.0318pt too wide) in paragraph at lines 19--20
+\OT1/cmr/m/it/10 tions 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 	\textit{a}
+                
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (25.87822pt too wide) in paragraph at lines 21--22
+[]\OT1/cmr/m/it/10 a 
+ []
+
+)
+! Emergency stop.
+<*> ...pes of Ordinary Differential Equations.tex"
+                                                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 23 strings out of 478868
+ 731 string characters out of 2865271
+ 298248 words of memory out of 3000000
+ 18039 multiletter control sequences out of 15000+600000
+ 403776 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 24i,5n,25p,323b,105s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

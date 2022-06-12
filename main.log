@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  25 SEP 2021 16:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  6 NOV 2021 19:34
 entering extended mode
 **./main.tex
 (main.tex
@@ -1224,65 +1224,63 @@ Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 ))
-(Front matter/Title Page v1.tex) (main.aux
+(Front matter/Title Page v5.tex
 
-LaTeX Warning: Label `' multiply defined.
+! LaTeX Error: Missing \begin{document}.
 
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4     \begin{center}
+                      
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-LaTeX Warning: Label `' multiply defined.
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.17         \hline
+                   
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
 
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.49         \hline
+                   
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
 
-LaTeX Warning: Label `' multiply defined.
+! Undefined control sequence.
+\set@color ...\@pdfcolorstack push{\current@color 
+                                                  }\aftergroup \reset@color 
+l.53 \end{titlepage}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
+! Undefined control sequence.
+\set@color ...\@pdfcolorstack push{\current@color 
+                                                  }\aftergroup \reset@color 
+l.53 \end{titlepage}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
+[1
 
 
-LaTeX Warning: Label `' multiply defined.
-
-)
+\providecommand \oddpage@label [2]{}
+{C:/Users/Sayeed Ahmad/AppData/Local/MiKTeX/pdftex/config/pdftex.map}])
+(main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
@@ -1358,7 +1356,7 @@ Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.18} (current compat level: 1.17).
 
 
-! LaTeX Error: There's no line here to end.
+! LaTeX Error: No \title given.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1366,22 +1364,8 @@ Type  H <return>  for immediate help.
                                                   
 l.86 
      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.86 
-     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 LaTeX Font Info:    Trying to load font information for U+msa on input line 86.
 
@@ -1393,9 +1377,15 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 86.
  (C:\MikTek\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-[1
 
-{C:/Users/Sayeed Ahmad/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+LaTeX Warning: No \author given.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.86 
+      [1]
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
@@ -1408,21 +1398,23 @@ an alignment. Proceed, and I'll ignore this case.
 .1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.24 ... {7}\textit {Observations}}{12}{chapter.7}
+l.25 ...ing transforms and series}}{11}{chapter.5}
                                                   % [1])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
  [2]
 (Sections/Abstract.tex)
-Overfull \hbox (35.25687pt too wide) in paragraph at lines 1--96
-\OT1/cmr/m/it/12 to time under certain controlled spaces with \OT1/cmr/bx/it/12
- defined standard initial conditions\OT1/cmr/m/it/12 .
+Overfull \hbox (44.2033pt too wide) in paragraph at lines 1--96
+\OT1/cmr/m/it/12 important concepts and fields of study in \OT1/cmr/bx/it/12 ca
+lculus\OT1/cmr/m/it/12 , \OT1/cmr/bx/it/12 number theory\OT1/cmr/m/it/12 , \OT1
+/cmr/bx/it/12 combinatorics
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--96
-
+Overfull \hbox (3.0284pt too wide) in paragraph at lines 1--96
+\OT1/cmr/m/it/12 also discuss the \OT1/cmr/bx/it/12 optimal methods \OT1/cmr/m/
+it/12 through which the transform can be applied
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
@@ -1434,663 +1426,367 @@ l.96 \end{abstract}
 
 ]
 Chapter 1.
-(Sections/Introduction.tex)
+(Sections/Introduction.tex
+Overfull \hbox (15.26292pt too wide) in paragraph at lines 4--5
+\OT1/cmr/bx/it/12 Engineering\OT1/cmr/m/it/12 . The fundamental concepts of the
+ \OT1/cmr/bx/it/12 Laplace transform\OT1/cmr/m/it/12 , \OT1/cmr/bx/it/12 Fourie
+r
+ []
+
+
+Overfull \hbox (12.8816pt too wide) in paragraph at lines 4--5
+\OT1/cmr/m/it/12 which implies that \OT1/cmr/bx/it/12 modern day computers \OT1
+/cmr/m/it/12 and \OT1/cmr/bx/it/12 computational technology
+ []
+
+)
 Chapter 2.
 (Sections/Aim.tex)
-Overfull \hbox (6.14636pt too wide) in paragraph at lines 1--107
-\OT1/cmr/m/it/12 controlled setting of a \OT1/cmr/bx/it/12 damped elastic harmo
-nic oscillator \OT1/cmr/m/it/12 and to compare
+Overfull \hbox (8.89542pt too wide) in paragraph at lines 1--107
+\OT1/cmr/bx/it/12 Fourier transform \OT1/cmr/m/it/12 and the \OT1/cmr/bx/it/12 
+Fourier series\OT1/cmr/m/it/12 , if so what is its \OT1/cmr/bx/it/12 mathematic
+al
  []
 
 
-Overfull \hbox (11.33675pt too wide) in paragraph at lines 1--107
-\OT1/cmr/bx/it/12 states \OT1/cmr/m/it/12 and further to study its \OT1/cmr/bx/
-it/12 sensitivity \OT1/cmr/m/it/12 to \OT1/cmr/bx/it/12 initial conditions \OT1
-/cmr/m/it/12 and calculate
- []
-
-
-Overfull \hbox (10.49489pt too wide) in paragraph at lines 1--107
-\OT1/cmr/m/it/12 the value the \OT1/cmr/bx/it/12 inconsistencies \OT1/cmr/m/it/
-12 in \OT1/cmr/bx/it/12 accuracy \OT1/cmr/m/it/12 of the \OT1/cmr/bx/it/12 math
-ematically modeled
+Overfull \hbox (14.01007pt too wide) in paragraph at lines 1--107
+\OT1/cmr/bx/it/12 significance \OT1/cmr/m/it/12 and how can it be optimally use
+d to solve \OT1/cmr/bx/it/12 Ordinary Differential
  []
 
 Chapter 3.
-(Sections/Background Research.texpdfTeX warning (ext4): destination with the sa
-me identifier (name{page.1}) has been already used, duplicate ignored
+(Sections/Background Research Mod 2.tex
+(Sections//./Generalized form of a Differential Equation.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 3.
+
+
+Overfull \hbox (0.79808pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/12 An Ordinary Differential Equation in one variable is generally
+ mathematically
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.2 
-     [1]
-Overfull \hbox (18.86604pt too wide) in paragraph at lines 21--22
-\OT1/cmr/m/it/12 According to our specific system that we are investigating, we
- have two generalized
+l.7 		$
+       $a_{n}\bigg(\overset{n}{\dot{y}}\bigg)^p + a_{n-1}\bigg(\overset{n-1}...
+[1]
+! Display math should end with $$.
+<to be read again> 
+                    
+l.7 ...\dot{y}\bigg)^f + a_{0}\bigg(y\bigg)^g = c$
+                                                  
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+
+Overfull \hbox (3.45366pt too wide) in paragraph at lines 31--32
+\OT1/cmr/m/it/12 differentiate differential equation with other forms of the di
+fferential equations.
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.24 
-      [2]
-Overfull \hbox (7.37589pt too wide) in paragraph at lines 33--34
-\OT1/cmr/m/it/12 Lagrange's equations with the incorporation of the Rayleigh di
-ssipation function
+l.32 
+      [2]) (Sections//./Types of Ordinary Differential Equations.tex
+Overfull \hbox (6.27997pt too wide) in paragraph at lines 3--3
+|[]\OT1/cmr/bx/it/17.28 Types of Ordinary Differential Equations| 
  []
 
-[3]
-! Missing $ inserted.
+
+Overfull \hbox (28.53722pt too wide) in paragraph at lines 13--14
+\OT1/cmr/m/it/12 An Ordinary Differential equation is said to be non-linear whe
+n the degree/exponent
+ []
+
+
+Overfull \hbox (8.5537pt too wide) in paragraph at lines 13--14
+\OT1/cmr/m/it/12 differential equation is a non-differentiable function of in t
+he principal function,
+ []
+
+) (Sections//./Types of Domains.tex [3]) (Sections//./The Laplace Transform.tex
+[4]) (Sections//./The Fourier Transform.tex
+Overfull \hbox (4.81482pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/12 The Fourier Transform is also an integral transform that trans
+forms a function
+ []
+
+
+Overfull \hbox (7.26471pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/12 from the time domain to the complex frequency-domain. The Four
+ier transform
+ []
+
+
+Overfull \hbox (7.65367pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/12 that this transform can be used to compute the solutions of di
+fferential equations
+ []
+
+) (Sections//./Trigonometric Series.tex
+! Missing } inserted.
 <inserted text> 
-                $
-l.65 		\textit{C_D =}
-                     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+                }
+l.13 ...cdot\int_L{f(x)\cdot\cos\left(nx\right)dx$
+                                                  $
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.15 ...cdot\int_L{f(x)\cdot\sin\left(nx\right)dx$
+                                                  $
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[5]) (Sections//./The Fourier Series.tex
+Overfull \hbox (15.015pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/12 The Fourier Series is a infinite summation representation of s
+inusoidal functions
+ []
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.19 ...\cos\left(\frac{2\pi}{P}\cdot nx\right)dx$
+                                                  $
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.27 ...pi}^{+\pi}{f(x)\cdot\cos\left(nx\right)dx$
+                                                  $
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.29 ...pi}^{+\pi}{f(x)\cdot\cos\left(nx\right)dx$
+                                                  $
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[6]) (Sections//./Parseval's Theorem.tex) (Sections//./Maclaurin Series.tex
+[7]))
+Chapter 4.
+
+Overfull \hbox (45.9013pt too wide) in paragraph at lines 148--148
+|[]\OT1/cmr/bx/it/24.88 Representation of the transforms
+ []
+
+(Sections/Representation of the transforms and series.tex
+(Sections//./Analytical representation of the transforms and series.tex
+Overfull \hbox (2.07698pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/12 When analyzing and investigating the Laplace transform, which 
+was previously
+ []
+
+) (Sections//./Graphical representation of the transforms and series.tex
+[8]
+<Sections//LapPictures/bk.png, id=238, 910.40125pt x 688.5725pt>
+File: Sections//LapPictures/bk.png Graphic file (type png)
+<use Sections//LapPictures/bk.png>
+Package pdftex.def Info: Sections//LapPictures/bk.png  used on input line 13.
+(pdftex.def)             Requested size: 426.79134pt x 322.79907pt.
+
+Overfull \hbox (36.79134pt too wide) in paragraph at lines 13--14
+ [][] 
+ []
+
+[9 <./Sections//LapPictures/bk.png (PNG copy)>]
+<Sections//FouPictures/bk.png, id=244, 910.40125pt x 688.5725pt>
+File: Sections//FouPictures/bk.png Graphic file (type png)
+<use Sections//FouPictures/bk.png>
+Package pdftex.def Info: Sections//FouPictures/bk.png  used on input line 25.
+(pdftex.def)             Requested size: 426.79134pt x 322.79907pt.
+
+Overfull \hbox (36.79134pt too wide) in paragraph at lines 25--26
+ [][] 
+ []
+
+))
+Chapter 5.
+
+Overfull \hbox (34.89175pt too wide) in paragraph at lines 152--152
+|[]\OT1/cmr/bx/it/24.88 Solving ODE's using transforms
+ []
+
+(Sections/Solving ODE's using transforms and series.tex
+(Sections//./Linear ODE.tex [10 <./Sections//FouPictures/bk.png (PNG copy)>]
+[11]
+
+! LaTeX Error: \begin{multline*} on input line 29 ended by \end{multline}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 			\end{multline}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{multline*} on input line 35 ended by \end{multline}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 			\end{multline}
+                      		
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{multline*} on input line 45 ended by \end{multline}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 			\end{multline}
+                      	
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[12]
+Overfull \hbox (12.88824pt too wide) in paragraph at lines 55--56
+[]\OT1/cmr/m/it/12 Applying the transform, simplifying the terms in the ODE, al
+gebraically ordering
+ []
+
+
+Overfull \hbox (16.65369pt too wide) in paragraph at lines 57--58
+\OT1/cmr/m/it/12 approach to annihilate the real part of the complex frequency 
+makes it increasingly
+ []
+
+) (Sections//./Non-Linear ODE.tex [13]
+Overfull \hbox (32.44708pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/12 system/ODE then the process what follows for the application o
+f the Laplace/Fourier
+ []
+
+[14]
+Overfull \hbox (5.21587pt too wide) in paragraph at lines 47--48
+[]\OT1/cmr/m/it/12 As it is evident from the above equation, we have cleverly m
+anipulated variables
+ []
+
+
+Overfull \hbox (2.42464pt too wide) in paragraph at lines 47--48
+\OT1/cmr/m/it/12 and derivatives to depress the original non-linear ODE into a 
+cubic polynomial
+ []
 
 ! Extra }, or forgotten $.
 <recently read> \egroup 
                         
-l.65 		\textit{C_D =}
-                     
+l.49 ...ssign $a_0 = 1$, $a_1 = \sin y$, $a_2 = 1}
+                                                  $, $a_3 = \cos x$ and $c=0...
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
 you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-! Missing $ inserted.
+[15]
+! Missing \right. inserted.
 <inserted text> 
-                $
-l.73 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+                \right .
+l.69 ...right) \approx 1 - \frac{\left(v^2)^2}{2!}
+                                                   + \frac{\left(v^2\right)^...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
-[4]
-Overfull \hbox (25.14395pt too wide) in paragraph at lines 88--89
-\OT1/cmr/m/it/12 The system exhibits an interesting feature, that of constant l
-ogarithmic decrements,
+
+Overfull \hbox (22.29375pt too wide) in paragraph at lines 71--72
+\OT1/cmr/m/it/12 in the principal function, and either solve the equation with 
+algebraic manipulation
  []
 
 
-Overfull \hbox (7.37596pt too wide) in paragraph at lines 94--95
-[]\OT1/cmr/m/it/12 Also interestingly that for any two successive peaks of a gr
-aphical representation
+Overfull \hbox (19.07611pt too wide) in paragraph at lines 71--72
+\OT1/cmr/m/it/12 or by applying the Transforms used to solve linear ODE's as af
+ter the substitution,
  []
 
-
-Overfull \hbox (3.4647pt too wide) in paragraph at lines 98--99
-[]\OT1/cmr/m/it/12 For a graphical representation of any parameter employed in 
-this investigation. 
- []
-
-
-Overfull \hbox (16.61292pt too wide) in paragraph at lines 108--109
-[]\OT1/cmr/m/it/12 Consequently we can find an expression for $\OML/cmm/m/it/12
- $ \OT1/cmr/m/it/12 in terms of \OT1/cmr/bx/it/12 percentage overshoot
- []
-
-[5]
-
-LaTeX Warning: Reference `pycode' on page 6 undefined on input line 118.
-
-)
-Chapter 4.
-(Sections/Variables.tex [6])
-Chapter 5.
-(Sections/Initial Conditions.tex)
+))
 Chapter 6.
-(Sections/Equation.tex [7]
-Overfull \hbox (5.6659pt too wide) in paragraph at lines 10--11
-[]\OT1/cmr/m/it/12 According to our specific case that we are investigating, we
- have two generalized
- []
-
-[8]
-
-LaTeX Warning: Reference `pycode' on page 9 undefined on input line 28.
-
-[9]
-Overfull \hbox (11.55371pt too wide) in paragraph at lines 70--71
-\OT1/cmr/m/it/12 The frequency of the system can be broken down into two two ty
-pes of frequencies
- []
-
-
-Overfull \hbox (6.31473pt too wide) in paragraph at lines 74--75
-\OT1/cmr/m/it/12 Radial frequency is defined as the number of oscillations of t
-he radial movement
- []
-
-[10] [11])
-Chapter 7.
-(Sections/Observations.tex [12] [13] [14] [15] [16])
-Chapter 8.
-(Sections/Graphical Analysis.tex (Sections/./ExpGraph.tex
-<ExpPictures/m1.png, id=344, 462.528pt x 346.896pt>
-File: ExpPictures/m1.png Graphic file (type png)
-<use ExpPictures/m1.png>
-Package pdftex.def Info: ExpPictures/m1.png  used on input line 3.
-(pdftex.def)             Requested size: 426.79134pt x 320.11154pt.
-
-Overfull \hbox (36.79134pt too wide) in paragraph at lines 3--4
- [][] 
- []
-
-[17]
-<ExpPictures/m2.png, id=350, 462.528pt x 346.896pt>
-File: ExpPictures/m2.png Graphic file (type png)
-<use ExpPictures/m2.png>
-Package pdftex.def Info: ExpPictures/m2.png  used on input line 10.
-(pdftex.def)             Requested size: 426.79134pt x 320.11154pt.
-
-Overfull \hbox (36.79134pt too wide) in paragraph at lines 10--11
- [][] 
- []
-
-[18 <./ExpPictures/m1.png>]
-<ExpPictures/m3.png, id=357, 462.528pt x 346.896pt>
-File: ExpPictures/m3.png Graphic file (type png)
-<use ExpPictures/m3.png>
-Package pdftex.def Info: ExpPictures/m3.png  used on input line 17.
-(pdftex.def)             Requested size: 426.79134pt x 320.11154pt.
-
-Overfull \hbox (36.79134pt too wide) in paragraph at lines 17--18
- [][] 
- []
-
-[19 <./ExpPictures/m2.png>]
-<ExpPictures/m4.png, id=364, 462.528pt x 346.896pt>
-File: ExpPictures/m4.png Graphic file (type png)
-<use ExpPictures/m4.png>
-Package pdftex.def Info: ExpPictures/m4.png  used on input line 24.
-(pdftex.def)             Requested size: 426.79134pt x 320.11154pt.
-
-Overfull \hbox (36.79134pt too wide) in paragraph at lines 24--25
- [][] 
- []
-
-[20 <./ExpPictures/m3.png>]
-<ExpPictures/m5.png, id=371, 462.528pt x 346.896pt>
-File: ExpPictures/m5.png Graphic file (type png)
-<use ExpPictures/m5.png>
-Package pdftex.def Info: ExpPictures/m5.png  used on input line 31.
-(pdftex.def)             Requested size: 426.79134pt x 320.11154pt.
-
-Overfull \hbox (36.79134pt too wide) in paragraph at lines 31--32
- [][] 
- []
-
-[21 <./ExpPictures/m4.png>]
-<ExpPictures/m6.png, id=379, 462.528pt x 346.896pt>
-File: ExpPictures/m6.png Graphic file (type png)
-<use ExpPictures/m6.png>
-Package pdftex.def Info: ExpPictures/m6.png  used on input line 38.
-(pdftex.def)             Requested size: 426.79134pt x 320.11154pt.
-
-Overfull \hbox (36.79134pt too wide) in paragraph at lines 38--39
- [][] 
- []
-
-[22 <./ExpPictures/m5.png>]
-<ExpPictures/m7.png, id=386, 462.528pt x 346.896pt>
-File: ExpPictures/m7.png Graphic file (type png)
-<use ExpPictures/m7.png>
-Package pdftex.def Info: ExpPictures/m7.png  used on input line 45.
-(pdftex.def)             Requested size: 426.79134pt x 320.11154pt.
-
-Overfull \hbox (36.79134pt too wide) in paragraph at lines 45--46
- [][] 
- []
-
-[23 <./ExpPictures/m6.png>]
-<ExpPictures/m8.png, id=393, 462.528pt x 346.896pt>
-File: ExpPictures/m8.png Graphic file (type png)
-<use ExpPictures/m8.png>
-Package pdftex.def Info: ExpPictures/m8.png  used on input line 52.
-(pdftex.def)             Requested size: 426.79134pt x 320.11154pt.
-
-Overfull \hbox (36.79134pt too wide) in paragraph at lines 52--53
- [][] 
- []
-
-[24 <./ExpPictures/m7.png>]
-<ExpPictures/m9.png, id=400, 462.528pt x 346.896pt>
-File: ExpPictures/m9.png Graphic file (type png)
-<use ExpPictures/m9.png>
-Package pdftex.def Info: ExpPictures/m9.png  used on input line 59.
-(pdftex.def)             Requested size: 426.79134pt x 320.11154pt.
-
-Overfull \hbox (36.79134pt too wide) in paragraph at lines 59--60
- [][] 
- []
-
-[25 <./ExpPictures/m8.png>]
-<ExpPictures/m10.png, id=407, 462.528pt x 346.896pt>
-File: ExpPictures/m10.png Graphic file (type png)
-<use ExpPictures/m10.png>
-Package pdftex.def Info: ExpPictures/m10.png  used on input line 66.
-(pdftex.def)             Requested size: 426.79134pt x 320.11154pt.
-
-Overfull \hbox (36.79134pt too wide) in paragraph at lines 66--67
- [][] 
- []
-
-[26 <./ExpPictures/m9.png>])
-Overfull \hbox (14.74026pt too wide) in paragraph at lines 7--7
-|[]\OT1/cmr/bx/it/14.4 Graphs in relation to the Simulation values versus
- []
-
-(Sections/./SimGraph.tex
-<SimPictures/m1.png, id=414, 493.6041pt x 478.4274pt>
-File: SimPictures/m1.png Graphic file (type png)
-<use SimPictures/m1.png>
-Package pdftex.def Info: SimPictures/m1.png  used on input line 3.
-(pdftex.def)             Requested size: 426.79134pt x 413.6734pt.
-
-Overfull \hbox (36.79134pt too wide) in paragraph at lines 3--4
- [][] 
- []
-
-[27 <./ExpPictures/m10.png>]
-<SimPictures/m2.png, id=422, 462.528pt x 346.896pt>
-File: SimPictures/m2.png Graphic file (type png)
-<use SimPictures/m2.png>
-Package pdftex.def Info: SimPictures/m2.png  used on input line 10.
-(pdftex.def)             Requested size: 426.79134pt x 320.11154pt.
-
-Overfull \hbox (36.79134pt too wide) in paragraph at lines 10--11
- [][] 
- []
-
-[28 <./SimPictures/m1.png>]
-<SimPictures/m3.png, id=429, 493.6041pt x 478.4274pt>
-File: SimPictures/m3.png Graphic file (type png)
-<use SimPictures/m3.png>
-Package pdftex.def Info: SimPictures/m3.png  used on input line 17.
-(pdftex.def)             Requested size: 426.79134pt x 413.6734pt.
-
-Overfull \hbox (36.79134pt too wide) in paragraph at lines 17--18
- [][] 
- []
-
-[29 <./SimPictures/m2.png>]
-<SimPictures/m4.png, id=436, 493.6041pt x 478.4274pt>
-File: SimPictures/m4.png Graphic file (type png)
-<use SimPictures/m4.png>
-Package pdftex.def Info: SimPictures/m4.png  used on input line 24.
-(pdftex.def)             Requested size: 426.79134pt x 413.6734pt.
-
-Overfull \hbox (36.79134pt too wide) in paragraph at lines 24--25
- [][] 
- []
-
-[30 <./SimPictures/m3.png>]
-<SimPictures/m5.png, id=443, 462.528pt x 346.896pt>
-File: SimPictures/m5.png Graphic file (type png)
-<use SimPictures/m5.png>
-Package pdftex.def Info: SimPictures/m5.png  used on input line 31.
-(pdftex.def)             Requested size: 426.79134pt x 320.11154pt.
-
-Overfull \hbox (36.79134pt too wide) in paragraph at lines 31--32
- [][] 
- []
-
-[31 <./SimPictures/m4.png>]
-<SimPictures/m6.png, id=450, 462.528pt x 346.896pt>
-File: SimPictures/m6.png Graphic file (type png)
-<use SimPictures/m6.png>
-Package pdftex.def Info: SimPictures/m6.png  used on input line 38.
-(pdftex.def)             Requested size: 426.79134pt x 320.11154pt.
-
-Overfull \hbox (36.79134pt too wide) in paragraph at lines 38--39
- [][] 
- []
-
-[32 <./SimPictures/m5.png>]
-<SimPictures/m7.png, id=457, 462.528pt x 346.896pt>
-File: SimPictures/m7.png Graphic file (type png)
-<use SimPictures/m7.png>
-Package pdftex.def Info: SimPictures/m7.png  used on input line 45.
-(pdftex.def)             Requested size: 426.79134pt x 320.11154pt.
-
-Overfull \hbox (36.79134pt too wide) in paragraph at lines 45--46
- [][] 
- []
-
-[33 <./SimPictures/m6.png>]
-<SimPictures/m8.png, id=465, 462.528pt x 346.896pt>
-File: SimPictures/m8.png Graphic file (type png)
-<use SimPictures/m8.png>
-Package pdftex.def Info: SimPictures/m8.png  used on input line 52.
-(pdftex.def)             Requested size: 426.79134pt x 320.11154pt.
-
-Overfull \hbox (36.79134pt too wide) in paragraph at lines 52--53
- [][] 
- []
-
-[34 <./SimPictures/m7.png>]
-<SimPictures/m9.png, id=472, 462.528pt x 346.896pt>
-File: SimPictures/m9.png Graphic file (type png)
-<use SimPictures/m9.png>
-Package pdftex.def Info: SimPictures/m9.png  used on input line 59.
-(pdftex.def)             Requested size: 426.79134pt x 320.11154pt.
-
-Overfull \hbox (36.79134pt too wide) in paragraph at lines 59--60
- [][] 
- []
-
-[35 <./SimPictures/m8.png>]
-<SimPictures/m10.png, id=479, 462.528pt x 346.896pt>
-File: SimPictures/m10.png Graphic file (type png)
-<use SimPictures/m10.png>
-Package pdftex.def Info: SimPictures/m10.png  used on input line 66.
-(pdftex.def)             Requested size: 426.79134pt x 320.11154pt.
-
-Overfull \hbox (36.79134pt too wide) in paragraph at lines 66--67
- [][] 
- []
-
-[36 <./SimPictures/m9.png>])
-Overfull \hbox (0.29805pt too wide) in paragraph at lines 14--15
-[]\OT1/cmr/m/it/12 We also observe that, with increase in mass, the \OT1/cmr/bx
-/it/12 amplitude \OT1/cmr/m/it/12 of the parameters
- []
-
-) (Sections/Numerical Analysis.tex
-Overfull \hbox (19.67592pt too wide) in paragraph at lines 5--6
-\OT1/cmr/m/it/12 We initially defined and conditionalized the initial value of 
-the radial displacement
- []
-
-[37 <./SimPictures/m10.png>]
-Overfull \hbox (28.97603pt too wide) in paragraph at lines 11--12
-\OT1/cmr/m/it/12 We initially defined and conditionalized the initial value of 
-the angular displacement
- []
-
-[38])
-Chapter 9.
-(Sections/Evaluation.tex
-Overfull \hbox (7.68411pt too wide) detected at line 3
-\OML/cmm/m/it/12 [] \OT1/cmr/m/n/12 = [] = [] = []
- []
-
-
-Overfull \hbox (7.30484pt too wide) detected at line 5
-\OML/cmm/m/it/12 [] \OT1/cmr/m/n/12 = [] = [] = []
- []
-
-
-Overfull \hbox (36.66315pt too wide) detected at line 7
-\OML/cmm/m/it/12 [] \OT1/cmr/m/n/12 = [] = [] = []
- []
-
-
-Overfull \hbox (40.27377pt too wide) detected at line 9
-\OML/cmm/m/it/12  [] \OT1/cmr/m/n/12 = [] = [] = []
- []
-
-[39])
-Chapter 10.
-(Sections/Limitations of Study.tex [40])
-Chapter 11.
-(Sections/Sources of Error.tex
-Overfull \hbox (4.65025pt too wide) in paragraph at lines 6--7
-[]\OT1/cmr/m/it/12 Uncertainties that cannot be minimized due to lack of highly
- sophisticated
- []
-
-)
-Chapter 12.
 (Sections/Conclusion.tex
-Overfull \hbox (3.10847pt too wide) in paragraph at lines 1--2
-\OT1/cmr/bx/it/12 pendulum \OT1/cmr/m/it/12 oscillating in a fluid medium (Air(
-Damped motion)) on the \OT1/cmr/bx/it/12 radial
+Overfull \hbox (24.84378pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/it/12 between various transforms, series and the many ways with the 
+aid of mathematical
+ []
+
+) [16] (Works Cited/Bib.tex
+Underfull \hbox (badness 2012) in paragraph at lines 41--42
+\OT1/cmr/m/n/12 Equations With Convolution Product Nonlinearities." \OT1/cmr/m/
+it/12 Journal of
  []
 
 
-Overfull \hbox (5.88028pt too wide) in paragraph at lines 1--2
-\OT1/cmr/bx/it/12 displacement\OT1/cmr/m/it/12 , \OT1/cmr/bx/it/12 angular disp
-lacement\OT1/cmr/m/it/12 , \OT1/cmr/bx/it/12 angular frequency \OT1/cmr/m/it/12
- and \OT1/cmr/bx/it/12 absolute
- []
-
-[41]) [42] (Works Cited/Bib.tex
-Underfull \hbox (badness 1742) in paragraph at lines 15--16
-\OT1/cmr/m/n/12 Journal of Physics\OT1/cmr/m/it/12 , vol. 36, no. 3, 2015, p. 0
-35014. \OT1/cmr/m/n/12 Crossref\OT1/cmr/m/it/12 ,
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+[]\OT1/cmr/m/n/12 \Applications of Second-Order Differential Equations."
  []
 
 
-Underfull \hbox (badness 1147) in paragraph at lines 24--25
-[]\OT1/cmr/m/it/12 \1. History of Dynamics; Motion in Moving Reference Frames."
-
- []
-
-! Misplaced alignment tab character &.
-l.30 “22. Finding Natural Frequencies &
-                                          Mode Shapes of a 2 DOF System.” ...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[43
-
-]
-Underfull \hbox (badness 2726) in paragraph at lines 33--34
-\OT1/cmr/m/it/12 Equations With Convolution Product Nonlinearities." \OT1/cmr/m
-/n/12 Journal of
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+\OT1/cmr/m/it/12 Index of /Data/CALCULUS Concepts and Contexts/Upfiles\OT1/cmr/
+m/n/12 ,
  []
 
 
-Underfull \hbox (badness 7344) in paragraph at lines 36--37
-\OT1/cmr/m/it/12 by Adnan Iqbal, 9 Aug. 2020, []$\OT1/cmtt/m/it/12 www . youtub
-e . com / watch ? v =
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+[]$\OT1/cmtt/m/n/12 www . stewartcalculus . com / data / CALCULUS % 20Concepts 
+% 20and %
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
-[]\OT1/cmr/m/it/12 \Applications of Second-Order Differential Equations." \OT1/
-cmr/m/n/12 Index
+Underfull \hbox (badness 2351) in paragraph at lines 101--102
+[]\OT1/cmr/m/n/12 \M2. Differential Equations in Physics." \OT1/cmr/m/it/12 You
+Tube\OT1/cmr/m/n/12 , uploaded by
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
-\OT1/cmr/m/n/12 of /Data/CALCULUS Concepts and Contexts/Upfiles\OT1/cmr/m/it/12
- ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
-[]$\OT1/cmtt/m/it/12 www . stewartcalculus . com / data / CALCULUS % 20Concepts
- % 20and %
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
-[]$\OT1/cmtt/m/it/12 engineering . nyu . edu / mechatronics / Control _ Lab / C
-riag /
- []
-
-
-Underfull \hbox (badness 1521) in paragraph at lines 48--49
-\OT1/cmr/m/n/12 for Solving Ordinary Differential Equations\OT1/cmr/m/it/12 . a
-rXiv, 2020. arXiv,
- []
-
-
-Underfull \hbox (badness 1325) in paragraph at lines 54--55
-\OT1/cmr/m/it/12 uploaded by Good Vibrations with Freeball, 29 Dec. 2016, []$\O
-T1/cmtt/m/it/12 www .
- []
-
-
-Underfull \hbox (badness 2591) in paragraph at lines 57--58
-[]\OT1/cmr/m/it/12 \Equations of Motion for the Elastic Pendulum (2DOF) Using
- []
-
-
-Underfull \hbox (badness 1092) in paragraph at lines 60--61
-[]\OT1/cmr/m/it/12 \Equations of Motion for the Multi Degree of Freedom (MDOF)
- []
-
-
-Underfull \hbox (badness 1478) in paragraph at lines 63--64
-\OT1/cmr/m/it/12 uploaded by Good Vibrations with Freeball, 18 July 2020, []$\O
-T1/cmtt/m/it/12 www .
- []
-
-[44]
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
-[]\OT1/cmr/m/it/12 \Euler-Lagrange Equation Explained Intuitively - Lagrangian
- []
-
-
-Underfull \hbox (badness 4699) in paragraph at lines 66--67
-\OT1/cmr/m/it/12 Mechanics." \OT1/cmr/m/n/12 YouTube\OT1/cmr/m/it/12 , uploaded
- by Physics Videos by Eugene
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
-\OT1/cmr/m/it/12 Khutoryansky, 18 Nov. 2018, []$\OT1/cmtt/m/it/12 www . youtube
- . com / watch ? v =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
-[]\OT1/cmr/m/it/12 \State Space Equation for Spring Pendulum." \OT1/cmr/m/n/12 
-Physics
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
-\OT1/cmr/m/n/12 Stack Exchange\OT1/cmr/m/it/12 , Physics Stack Exchange, 4 Dec.
- 2014,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
-[]$\OT1/cmtt/m/it/12 physics . stackexchange . com / questions / 150463 /
- []
-
-
-Underfull \hbox (badness 3536) in paragraph at lines 75--76
-[]\OT1/cmr/m/it/12 \Hamilton's Principle and Euler-Lagrange Equations." \OT1/cm
-r/m/n/12 YouTube\OT1/cmr/m/it/12 ,
- []
-
-
-Underfull \hbox (badness 7168) in paragraph at lines 78--79
-[]\OT1/cmr/m/it/12 Han, Yun. \ECE 486 Control Systems." \OT1/cmr/m/n/12 ECE 48
-6 Control
- []
-
-
-Underfull \hbox (badness 6510) in paragraph at lines 78--79
-\OT1/cmr/m/n/12 Systems - Lecture 2\OT1/cmr/m/it/12 , University of Illinois, 1
-8 Jan. 2018,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--79
-[]$\OT1/cmtt/m/it/12 courses . engr . illinois . edu / ece486 / sp2021 / docume
-ntation /
- []
-
-
-Underfull \hbox (badness 2261) in paragraph at lines 90--91
-\OT1/cmr/m/it/12 28 Feb. 2021, []$\OT1/cmtt/m/it/12 phys . libretexts . org / B
-ookshelves / Classical _
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
-\OT1/cmtt/m/it/12 Mechanics / \Variational _ Principles _ in _ Classical _
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
-\OT1/cmtt/m/it/12 Mechanics _ (Cline ) / \ 10 % 3A _ Nonconservative _ Systems 
-/ 10 .
- []
-
-
-Underfull \hbox (badness 2376) in paragraph at lines 93--94
-[]\OT1/cmr/m/it/12 \M2. Differential Equations in Physics." \OT1/cmr/m/n/12 You
-Tube\OT1/cmr/m/it/12 , uploaded by
- []
-
-[45]
-Underfull \hbox (badness 2922) in paragraph at lines 99--100
-[]\OT1/cmr/m/it/12 \Modified Hamilton's Principle." \OT1/cmr/m/n/12 YouTube\OT1
-/cmr/m/it/12 , uploaded by Rangeet
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 99--100
-\OT1/cmr/m/it/12 Bhattacharyya, 25 Sept. 2020, []$\OT1/cmtt/m/it/12 www . youtu
-be . com / watch ? v =
- []
-
-
-Underfull \hbox (badness 2799) in paragraph at lines 105--106
-[]\OT1/cmr/m/it/12 \Oscillations Demo: Mass Spring System." \OT1/cmr/m/n/12 You
-Tube\OT1/cmr/m/it/12 , uploaded
- []
-
-
-Underfull \hbox (badness 1248) in paragraph at lines 105--106
-\OT1/cmr/m/it/12 by Physics Demos, 20 Aug. 2016, []$\OT1/cmtt/m/it/12 www . you
-tube . com / watch ? v =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
-[]\OT1/cmr/m/it/12 \Rayleigh Dissipation Function | Classical Mechanics |
- []
-
-
-Underfull \hbox (badness 1708) in paragraph at lines 114--115
-\OT1/cmr/m/it/12 LetThereBeMath |." \OT1/cmr/m/n/12 YouTube\OT1/cmr/m/it/12 , u
-ploaded by Let there be math,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 126--127
-[]\OT1/cmr/m/it/12 Sivasrinivaskolukula. \Spring Pendulum." \OT1/cmr/m/n/12 Siv
-asrinivaskolukula\OT1/cmr/m/it/12 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 126--127
-[]$\OT1/cmtt/m/it/12 sites . google . com / site / kolukulasivasrinivas / mecha
-nics /
- []
-
-[46]
-Underfull \hbox (badness 1603) in paragraph at lines 144--145
-[]\OT1/cmr/m/it/12 \What Does the Laplace Transform Really Tell Us? A Visual
- []
-
-
-Underfull \hbox (badness 3000) in paragraph at lines 153--154
-[]\OT1/cmr/m/it/12 Pokorny, P. \Continuation of Periodic Solutions of Dissipati
-ve
- []
-
-
-Underfull \hbox (badness 4899) in paragraph at lines 153--154
-\OT1/cmr/m/it/12 and Conservative Systems: Application to Elastic Pendulum."
+Underfull \hbox (badness 1163) in paragraph at lines 152--153
+[]\OT1/cmr/m/n/12 \What Does the Laplace Transform Really Tell Us? A Visual
  []
 
 ! Misplaced alignment tab character &.
-l.159 ...sers}. Abingdon, United Kingdom, Taylor &
+l.167 ...sers}. Abingdon, United Kingdom, Taylor &
                                                    Francis, 2014.
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2099,60 +1795,63 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
+[17
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--166
-[]\OT1/cmr/m/it/12 Hayek, Sabih I. \Mechanical Vibration and Damping."
+]
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+[]\OT1/cmr/m/n/12 Hayek, Sabih I. \Mechanical Vibration and Damping."
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--166
-\OT1/cmr/m/n/12 Digital Encyclopedia of Applied Physics\OT1/cmr/m/it/12 , 2003.
- \OT1/cmr/m/n/12 Crossref\OT1/cmr/m/it/12 ,
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+\OT1/cmr/m/it/12 Digital Encyclopedia of Applied Physics\OT1/cmr/m/n/12 , 2003.
+ \OT1/cmr/m/it/12 Crossref\OT1/cmr/m/n/12 ,
  []
 
-[47]
-Underfull \hbox (badness 1874) in paragraph at lines 171--172
-[]\OT1/cmr/m/it/12 Serway, Raymond, and John Jewett. \OT1/cmr/m/n/12 Physics fo
+
+Underfull \hbox (badness 1728) in paragraph at lines 179--180
+[]\OT1/cmr/m/n/12 Serway, Raymond, and John Jewett. \OT1/cmr/m/it/12 Physics fo
 r Scientists and
  []
 
-) [48] (main.aux)
-
-LaTeX Warning: There were undefined references.
+) [18] [19
 
 
-LaTeX Warning: There were multiply-defined labels.
+] (Appendix/appdix.tex (Appendix/./Laplace Table.tex
+<Appendix/Laplace-Table.png, id=315, 491.58656pt x 634.62094pt>
+File: Appendix/Laplace-Table.png Graphic file (type png)
+<use Appendix/Laplace-Table.png>
+Package pdftex.def Info: Appendix/Laplace-Table.png  used on input line 5.
+(pdftex.def)             Requested size: 426.79134pt x 550.99246pt.
 
+Overfull \hbox (36.79134pt too wide) in paragraph at lines 5--6
+ [][] 
+ []
+
+)) [20 <./Appendix/Laplace-Table.png>] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: BB049FD6402C81D8D50E4CE2AE4AD180;8628.
- )
-(\end occurred inside a group at level 1)
-
-### simple group (level 1) entered at line 65 ({)
-### bottom level 
+(rerunfilecheck)             Checksum: 8C3034B249E29841BD812F8760A95699;6181.
+ ) 
 Here is how much of TeX's memory you used:
- 36889 strings out of 478868
- 810964 string characters out of 2865271
- 1301747 words of memory out of 3000000
- 53871 multiletter control sequences out of 15000+600000
- 423199 words of font info for 95 fonts, out of 8000000 for 9000
+ 36638 strings out of 478868
+ 811158 string characters out of 2865271
+ 1307747 words of memory out of 3000000
+ 53726 multiletter control sequences out of 15000+600000
+ 421067 words of font info for 89 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,10n,89p,1195b,710s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\Sayeed Ahmad\AppData\Local\MiKTeX\fonts/pk/ljfour/jk
-nappen/ec/dpi600\tcti1200.pk> <C:\Users\Sayeed Ahmad\AppData\Local\MiKTeX\fonts
-/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/MikTek/fonts/type1/public/amsfont
-s/cm/cmbx12.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/MikT
-ek/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/MikTek/fonts/type1/public/amsf
-onts/cm/cmitt10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Mi
-kTek/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/MikTek/fonts/type1/public/ams
-fonts/cm/cmmi8.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/MikT
-ek/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/MikTek/fonts/type1/public/amsfon
-ts/cm/cmr8.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/MikTek/
-fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/MikTek/fonts/type1/public/amsfonts
-/cm/cmti12.pfb><C:/MikTek/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (52 pages, 2001375 bytes).
+ 84i,11n,89p,1195b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/MikTek/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/MikTek/fonts/type1/p
+ublic/amsfonts/cm/cmbxti10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmex10
+.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/MikTek/fonts/type
+1/public/amsfonts/cm/cmmi8.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmr12.
+pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/MikTek/fonts/type1/p
+ublic/amsfonts/cm/cmr8.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+><C:/MikTek/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/MikTek/fonts/type1/pub
+lic/amsfonts/cm/cmti12.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmtt12.pfb
+>
+Output written on main.pdf (25 pages, 643762 bytes).
 PDF statistics:
- 778 PDF objects out of 1000 (max. 8388607)
- 193 named destinations out of 1000 (max. 500000)
- 489 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 393 PDF objects out of 1000 (max. 8388607)
+ 77 named destinations out of 1000 (max. 500000)
+ 300 words of extra memory for PDF output out of 10000 (max. 10000000)
 
