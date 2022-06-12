@@ -1,0 +1,82 @@
+
+
+{Though Newton and Bernoulli's solutions were fabulous and stunning, they approached the problem in an geometric approach according different cases and phenomenon. It was Euler in collaboration with Lagrange that generalized these sets of problems on the optimization of problems that involved functionals.}
+
+{Their works are now known as the "Calculus of Variations" as it embarks to employ the calculus of functions that are dependent on other functions (functionals).}
+
+{In order to solve the Brachistochrone problem that involves the minimization of a functional, we shall use the Euler-Lagrange equation, as this was the primary equation that Euler used to solve the Brachistochrone problem. The equation states that,}
+
+	$$\frac{\partial F}{\partial y} - \frac{d}{dx}\left(\frac{\partial F}{\partial y^{\prime}}\right) = 0$$
+
+{As the functional "\textit{F}", does not explicitly depend on \textit{x}, the Euler-Lagrange equation reduces to what is known as the Beltrami identity. The Beltrami identity states that,}
+
+	$$F - y^{\prime}\frac{\partial F}{\partial y^{\prime}} = C$$
+
+%\subsection{Evaluating the Left Hand Side of Beltrami Identity}
+
+%	{}
+
+\subsection{Evaluating the Beltrami Identity for the Brachistochrone problem}
+
+	{Applying the Beltrami identity for the Brachistochrone problem yields,}
+
+		$$F - y^{\prime}\frac{\partial F}{\partial y^{\prime}} = C = \sqrt{\frac{1 + \left(y^{\prime}\right)^2}{y}} - y^{\prime}\frac{y^{\prime}}{\sqrt{1 + y^{\prime}}}$$
+
+	{Implies,}
+
+		$$\frac{1}{\sqrt{1 + \left(y^{\prime}\right)^2}} = C$$
+
+	{Therefore by squaring both sides and rearranging we get,}
+
+		$$y\left(1 + \left(y^{\prime}\right)^2\right) = \frac{1}{C^2} = k_{1}$$
+
+	{Analyzing the above differential equation and rearranging it yields,}
+
+		$$dx = \sqrt{\frac{y}{k_{1} - y}}dy$$
+
+	{Integrating both sides we get,}
+
+		$$x + k_{2} = \int\sqrt{\frac{y}{k_{1} - y}}dy$$
+
+	{To solve the above integral, we can make an trigonometric substitution for \textit{y}, that is, $y = k_{1}\sin^2\theta$ for some $\theta$ between $0$ and $\pi/2$. Therefore we have,}
+
+		$$dy = 2k_{1}\sin\theta\cos\theta d\theta$$
+
+	{Substituting for \textit{y} and \textit{dy} we have,}
+
+%		$$x + k_{2} = \int\sqrt{\frac{y}{k_{1} - y}}dy = \int\sqrt{\frac{k_{1}\sin^2\theta}{k_{1} - k_{1}\sin^2\theta}}\cdot 2k_{1}\sin\theta\cos\theta d\theta$$
+
+		$$x = \int\sqrt{\frac{y}{k_{1} - y}}dy = \int\sqrt{\frac{k_{1}\sin^2\theta}{k_{1} - k_{1}\sin^2\theta}}\cdot 2k_{1}\sin\theta\cos\theta d\theta$$
+
+	{Simplifying the above integral we have,}
+
+		$$\int\sqrt{\frac{\sin^2\theta}{1 - \sin^2\theta}}\cdot 2k_{1}\sin\theta\cos\theta d\theta = \int\sqrt{\frac{\sin^2\theta}{\cos^2\theta}}\cdot 2k_{1}\sin\theta\cos\theta d\theta = 2k_{1}\int\sin^2\theta d\theta$$
+
+	{If we make a trigonometric substitution for $\sin^2\theta = 1/2\left(1 - \cos2\theta\right)$, we have,}
+
+%		$$x + k_{2} = 2k_{1}\int\sin^2\theta d\theta = 2k_{1}\int\frac{1}{2}\left(1 - \cos2\theta\right) d\theta = k_{1}\theta - \frac{k_{1}}{2}\sin2\theta$$
+
+		$$x = 2k_{1}\int\sin^2\theta d\theta = 2k_{1}\int\frac{1}{2}\left(1 - \cos2\theta\right) d\theta = k_{1}\theta - \frac{k_{1}}{2}\sin2\theta$$
+
+	{Therefore we have,}
+
+%		$$x = k_{1}\theta - \frac{k_{1}}{2}\sin2\theta - k_{2}$$
+
+		$$x = k_{1}\theta - \frac{k_{1}}{2}\sin2\theta = \frac{k_{1}}{2}\left(2\theta - \sin2\theta\right)$$
+
+	{Also we have that,}
+
+		$$y = k_{1}\sin^2\theta = \frac{k_{1}}{2}\left(1 - \cos2\theta\right)$$
+
+
+	{Therefore we have,}
+
+%		$$\boxed{\begin{array}{rc1}x = k_{1}\theta - \frac{k_{1}}{2}\sin2\theta - k_{2} \\ y = k_{1}\sin^2\theta = \frac{k_{1}}{2}\left(1 - \cos2\theta\right) \\ \end{array}}$$
+
+		\begin{equation}
+			\boxed{\begin{array}{rc1}x = \frac{k_{1}}{2}\left(2\theta - \sin2\theta\right) \\ y = \frac{k_{1}}{2}\left(1 - \cos2\theta\right) \\ \end{array}}
+		\end{equation}
+
+	{After solving the integral, we obtain parametric equations for \textit{x} and \textit{y} that represent a cycloid.}
+
+

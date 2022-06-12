@@ -1,0 +1,38 @@
+
+
+{If we are to take the differential of the parametric equations from equations \ref{cyceq} with respect to $\theta$, we have,}
+
+	$$\frac{dx}{d\theta} = \frac{d}{d\theta}\left(r\left(\theta - \sin\theta\right)\right) = r\left(1 - \cos\theta\right)$$
+
+	$$\frac{dy}{d\theta} = \frac{d}{d\theta}\left(r\left(1 - \cos\theta\right)\right) = r\sin\theta$$
+
+{Then by using the chain rule we have,}
+
+	$$\frac{dy}{dx} = \frac{dy}{d\theta}\cdot\frac{d\theta}{dx} = \frac{r\sin\theta}{r\left(1 - \cos\theta\right)} = \frac{\sin\theta}{1 - \cos\theta}$$
+
+{Squaring on both sides we have,}
+
+	\begin{equation}
+		\left(\frac{dy}{dx}\right)^2 = \frac{\sin^2\theta}{\left(1 - \cos\theta\right)^2} = \frac{1 - \cos^2\theta}{\left(1 - \cos\theta\right)^2} = \frac{1 + \cos\theta}{1 - \cos\theta}
+		\label{dydx}
+	\end{equation}
+
+{From equation \ref{cyceq} we know that, $y = r\left(1 - \cos\theta\right)$. Therefore with algebraic manipulation we have,}
+
+	\begin{equation}
+		\cos\theta = 1 -\frac{y}{r}
+		\label{coseq}
+	\end{equation}
+
+{Therefore by substituting equation \ref{coseq} in equation \ref{dydx}, we have,}
+
+	\begin{equation}
+		\left(\frac{dy}{dx}\right)^2 = \frac{2r - y}{y}
+		\label{dydxry}
+	\end{equation}
+
+{Therefore we have,}
+
+	$$y\left(\left(y^{\prime}\right)^2 + 1\right) = 2r$$
+
+

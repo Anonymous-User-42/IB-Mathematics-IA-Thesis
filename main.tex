@@ -28,6 +28,9 @@
 \usepackage[]{babel}
 \usepackage{appendix}
 \usepackage{listingsutf8}
+%\usepackage[scaled,nueu]{helvet}
+%\usepackage[proportional,scaled=1.064]{erewhon}
+%\usepackage[T1]{fontenc}
 
 
 
@@ -62,7 +65,7 @@
 
 
 
-\renewcommand{\familydefault}{\sfdefault}
+%\renewcommand{\familydefault}{\sfdefault}
 
 \renewcommand{\contentsname}{\textit{Contents}\hline}
 \renewcommand{\refname}{\textit{Bibliography}}
@@ -78,7 +81,8 @@
 
 
 
-\input{Front matter/Title Page v5}
+%\input{Front matter/Title Page v6}
+\input{Front matter/Title Page v7}
 
 
 
@@ -103,10 +107,16 @@
         
         \import{Sections}{Introduction}
         
-\section{{Aim}}
+%\section{{Aim}}
         
-        \import{Sections}{Aim}
-        
+%		\import{Sections}{Aim}
+
+%		\import{Sections}{Aim Mod 2}
+
+%\section{Rationale}
+			
+%		\import{Sections}{Rationale}
+			
 %\chapter{\textit{Types of Ordinary Differential Equations}}
         
 %        \import{Sections}{Types of Ordinary Differential Equations}
@@ -119,9 +129,17 @@
         
 %        \import{Sections}{The Fourier Transform}        
         
-\section{{Background Research}}
+%\section{{Background Research}}
         
-        \import{Sections}{Background Research Mod 2}
+%        \import{Sections}{Background Research Mod 2}
+		
+\section{Travel Time between two points}
+			
+		\import{Sections}{Travel Time between two points}
+			
+\section{Euler-Lagrange Equation}
+			
+		\import{Sections}{Euler-Lagrange Equation}
         
 %\chapter{\textit{Materials Required}}
         
@@ -130,6 +148,10 @@
 %\chapter{\textit{General Methods to solve a Differential Equations}}
         
 %        \import{Sections}{General Methods to solve a Differential Equations}        
+
+\section{The Curve: Cycloid}
+			
+		\import{Sections}{The Curve-Cycloid}
         
 %\chapter{\textit{Variables}}
         
@@ -147,17 +169,29 @@
         
 %        \import{Sections}{Equation}
 
-\section{{Representation of the transforms and series}}
+\section{Differential Equations of the Cycloid}
 
-	\import{Sections}{Representation of the transforms and series}
+		\import{Sections}{Differential Equations of the Cycloid}
 
-\section{{Solving ODE's using transforms and series}}
+%\section{{Representation of the transforms and series}}
 
-	\import{Sections}{Solving ODE's using transforms and series}
+%	\import{Sections}{Representation of the transforms and series}
+
+%\section{{Solving ODE's using transforms and series}}
+
+%	\import{Sections}{Solving ODE's using transforms and series}
+
+\section{Solving for Travel Time Minimization}
+
+		\import{Sections}{Solving for Travel Time Minimization}
         
 %\chapter{\textit{Effects of the transforms \& Series on various functions}}
         
 %        \import{Sections}{Effects of the transforms & Series on various functions}        
+
+\section{Calculation of Sample Path}
+
+		\import{Sections}{Calculation of Sample Path}
         
 %\chapter{\textit{Experimental Data}}
         
@@ -202,19 +236,24 @@
         \import{Sections}{Conclusion}
         
 
+% Hash the 2 functions below when excluding the Bibliography/References Chapter/Section environment
+
+%	Hash the \clearpage function to render the document with Bibliography/References Chapter/Section right after the Conclusion Chapter/Section
+
         
-\clearpage
+%\clearpage
 
-\import{Works Cited}{Bib}
+%\import{Works Cited}{Bib}
 
 
-\clearpage
+% Hash the 3 functions below when excluding the Appendix Chapter/Section environment
 
-\appendixpage
 
-\appendix
+%\clearpage
 
-\import{Appendix}{appdix}
+%\appendix
+
+%\import{Appendix}{appdix}
 
 
 \end{document}
@@ -319,4 +358,8 @@ Recommendations
 
 
 φ
+
+
+
+
 

@@ -1,0 +1,56 @@
+
+
+{We have calculated and derived the parametric equations to the curve of fastest descent, we now would like to calculate the time it takes to travel on this path.}
+
+{From equation \ref{Tmin} we have,}
+
+	$$T = \frac{1}{\sqrt{2g}}\int_{x_1}^{x_2} \sqrt{\frac{1 + \left(y^{\prime}\right)^2}{y}} dx$$
+
+{And from equation \ref{dydxry} we have,}
+
+	$$\left(\frac{dy}{dx}\right)^2 = \frac{2r - y}{y}$$
+
+{Implying,}
+
+	$$dx = \sqrt{\frac{y}{2r - y}}dy$$
+
+{Substituting \textit{dx} in equation \ref{Tmin} we have,}
+
+	$$T = \frac{1}{\sqrt{2g}}\int_{y_1}^{y_2} \sqrt{\frac{1 + \left(\sqrt{\frac{2r - y}{y}}\right)^2}{y}\cdot\frac{y}{2r - y}}dy$$
+
+{With some algebraic manipulation, the above equation reduces to,}
+
+	$$T = \frac{1}{\sqrt{2g}}\int_{y_1}^{y_2}\sqrt{\frac{2r}{y\left(2r -y\right)}}dy$$
+
+{From equation \ref{cyceq}, we know that,}
+
+	$$y = r\left(1 - \cos\theta\right)$$
+
+{Therefore the time minimization integral can be reduced to,}
+
+	$$T = \frac{1}{\sqrt{2g}}\int_{y_1}^{y_2}\sqrt{\frac{2r}{r\left(1 - \cos\theta\right)\left(2r -r\left(1 - \cos\theta\right)\right)}}dy$$
+
+{If we look at the denominator of the fraction, which therein lies under the integral, we have,}
+
+	$$r\left(1 - \cos\theta\right)\left(2r -r\left(1 - \cos\theta\right)\right) = -\left[\left(r - y\right)^2 - r^2 = r^2\cos^2\theta - r^2\right] = -\left[r^2\left(\cos^2\theta - 1\right)\right]$$
+
+{But,}
+
+	$$-\left[r^2\left(\cos^2\theta - 1\right)\right] = r^2\sin^2\theta$$
+
+{Therefore we have,}
+
+	$$T = \frac{1}{\sqrt{2g}}\int_{y_1}^{y_2}\sqrt{\frac{2r}{r^2\sin^2\theta}}dy = \frac{1}{\sqrt{2g}}\int_{y_1}^{y_2}\frac{\sqrt{2r}}{r\sin\theta}dy$$
+
+{Substituting $dy = r\sin\theta d\theta$, we have,}
+
+	$$T = \frac{1}{\sqrt{2g}}\int_{\theta_1}^{\theta_2}\frac{\sqrt{2r}}{r\sin\theta}\cdot r\sin\theta d\theta = \frac{1}{\sqrt{2g}}\int_{\theta_1}^{\theta_2}\sqrt{2r}d\theta$$
+
+{Therefore we finally have,}
+
+	\begin{equation}
+		T = \sqrt{\frac{r}{g}}\cdot\theta
+		\label{Tcal}
+	\end{equation}
+
+{For any values of the coordinates for which the time and path are to be minimized, the variables, \textit{r} and $\theta$ can be calculated according to the case as they are variables in the parametric equations that define the cycloid.}

@@ -1,0 +1,82 @@
+
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=15cm]{BrachPoints.jpg}
+    		\caption{{A graphial representation of the Brachistochrone problem}}
+\end{figure}
+
+
+{The travel time between two points is the sum of the infinitesimal changes in the time taken to cover a fixed infinitesimal distance from the path length. If we define the total time taken to be T, then the mathematical relation is defined as,}
+
+	$$T = \int dt$$
+
+{Because the phenomenon spans between in an finite time period, the above general integral can be written as,}
+
+	$$T = \int_{0}^{t} dt$$
+
+{So, the solution to the problem is the the optimization (minimization) of the time integral above, ie. The optimization (minimization) of \textit{\textbf{T}}.}
+
+{If we define the velocity of the spherical mass in motion on the path (curve) to be,}
+
+	$$v = \frac{ds}{dt}$$
+
+{Where \textit{ds} is the incremental path length and \textit{dt} is the incremental time.}
+
+{Implies,}
+
+	$$dt = \frac{ds}{v}$$
+
+{Making a substitution for \textit{dt} in the integral yields,}
+
+	$$T = \int \frac{ds}{v}$$
+
+{Because this phenomenon consists of a finite path with a finite path length spanning between two points, namely A and B, the above general integral can be written as,}
+
+	\begin{equation}
+		T = \int_{A}^{B} \frac{ds}{v}
+		\label{T-ab}
+	\end{equation}
+
+{As we are considering \textit{y} to be the vertical distance (height) at an instant from point A to the spherical mass on the curve, by the conservation of energy we have that the kinetic energy of the spherical mass at a point in time on curve is the loss in potential energy from height \textit{y}. Mathematically we have,}
+
+	$$\frac{1}{2}mv^2 = mgy$$ 
+
+{Implies,}
+
+	$$v = \sqrt{2gy}$$
+
+{If we look at the path (curve) closely and think about the infinitesimal path length \textit{ds}, in terms of \textit{dx} and \textit{dy}, we have by Pythagorean theorem,}
+
+	$$ds^2 = dx^2 + dy^2$$
+
+{Implies}
+
+	$$ds = \sqrt{dx^2 + dy^2} = \sqrt{1 + \left(\frac{dy}{dx}\right)^2} dx = \sqrt{1 + \left(y^{\prime}\right)^2} dx$$
+
+{Making a substitution for \textit{ds} and \textit{v} in equation \ref{T-ab}, we have,}
+
+	$$T = \int_{A}^{B} \frac{ds}{v} = \int_{x_1}^{x_2} \frac{\sqrt{1 + \left(y^{\prime}\right)^2}}{\sqrt{2gy}} dx = \int_{x_1}^{x_2} \sqrt{\frac{1 + \left(y^{\prime}\right)^2}{2gy}} dx$$
+
+{Therefore we have,}
+
+	\begin{equation}
+		T = \frac{1}{\sqrt{2g}}\int_{x_1}^{x_2} \sqrt{\frac{1 + \left(y^{\prime}\right)^2}{y}} dx
+		\label{Tmin}
+	\end{equation}
+
+{Looking at the above equation, we can see that conventional calculus methods do not apply here. Instead of minimizing a specific point in a function, we are to minimize a family of curves (functions).}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=15cm]{OrgProbDia.jpg}
+    		\caption{{A graphial representation of some curves that could be a possible solution to the Brachistochrone problem}}
+\end{figure}
+
+{Upon observation we can evidently see that, $\sqrt{\frac{1 + \left(y^{\prime}\right)^2}{y}}$ is functional in \textit{y} and \textit{$y^\prime$}.}
+
+{If we define this functional as \textit{F}, we have,}
+
+	$$F[y,y^{\prime}] = \sqrt{\frac{1 + \left(y^{\prime}\right)^2}{y}}$$
+
+
