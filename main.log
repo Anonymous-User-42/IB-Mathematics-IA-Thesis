@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  17 MAR 2022 01:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  1 APR 2022 16:18
 entering extended mode
 **./main.tex
 (main.tex
@@ -1223,7 +1223,38 @@ Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 ))
-(Front matter/Title Page v8.tex
+(C:\MikTek\tex/latex/psnfss\mathptmx.sty
+Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup9
+\symitalic=\mathgroup10
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+) (Front matter/Title Page v8.tex
 
 ! LaTeX Error: Missing \begin{document}.
 
@@ -1236,6 +1267,23 @@ l.4     \begin{center}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
+
+LaTeX Font Warning: Font shape `OT1/cmr/b/it' undefined
+(Font)              using `OT1/cmr/bx/it' instead on input line 12.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/b/it' undefined
+(Font)              using `OT1/cmr/bx/it' instead on input line 29.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/b/it' undefined
+(Font)              using `OT1/cmr/bx/it' instead on input line 48.
+
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 6
+7.
+(C:\MikTek\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
 ! Undefined control sequence.
 \set@color ...\@pdfcolorstack push{\current@color 
                                                   }\aftergroup \reset@color 
@@ -1266,31 +1314,31 @@ and I'll forget about whatever was undefined.
 (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 89.
-LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 8
-9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 91.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 9
+1.
  (C:\MikTek\tex/latex/cbfonts-fd\lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    ... okay on input line 91.
 
 (C:\MikTek\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1313,7 +1361,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (C:\MikTek\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 89.
+Package hyperref Info: Link coloring OFF on input line 91.
 
 (C:\MikTek\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1326,9 +1374,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count338
 )
-LaTeX Info: Redefining \ref on input line 89.
-LaTeX Info: Redefining \pageref on input line 89.
-LaTeX Info: Redefining \nameref on input line 89.
+LaTeX Info: Redefining \ref on input line 91.
+LaTeX Info: Redefining \pageref on input line 91.
+LaTeX Info: Redefining \nameref on input line 91.
  (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -1345,73 +1393,110 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.92 
+l.94 
      
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 92.
-
-(C:\MikTek\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
+ 94.
+(C:\MikTek\tex/latex/psnfss\ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 92.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
+ 94.
 
- (C:\MikTek\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+(C:\MikTek\tex/latex/psnfss\omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
+ 94.
+
+(C:\MikTek\tex/latex/psnfss\omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
+ 94.
+
+(C:\MikTek\tex/latex/psnfss\omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 94.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 94.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 94.
+
 
 LaTeX Warning: No \author given.
 
-(Sections/Introduction.tex) (Sections/Travel Time between two points.tex
-<Sections//BrachPoints.jpg, id=48, 511.9125pt x 157.33781pt>
+(Sections/Introduction.tex
+Overfull \hbox (5.86479pt too wide) in paragraph at lines 10--11
+\OT1/ptm/m/n/12 can be found with high-school calculus. But after further readi
+ng and understanding
+ []
+
+) (Sections/Travel Time between two points.tex
+<Sections//BrachPoints.jpg, id=51, 511.9125pt x 157.33781pt>
 File: Sections//BrachPoints.jpg Graphic file (type jpg)
 <use Sections//BrachPoints.jpg>
 Package pdftex.def Info: Sections//BrachPoints.jpg  used on input line 5.
-(pdftex.def)             Requested size: 426.79134pt x 131.17613pt.
-
-Overfull \hbox (36.79134pt too wide) in paragraph at lines 5--6
- [][] 
- []
-
+(pdftex.def)             Requested size: 369.88582pt x 113.68646pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.8 
-     [1] [2 <./Sections//BrachPoints.jpg>] [3]
-<Sections//OrgProbDia.jpg, id=72, 696.35156pt x 440.39531pt>
+     [1]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
+
+Overfull \hbox (12.51233pt too wide) in paragraph at lines 20--21
+\OT1/ptm/m/n/12 above is computed, ie. Obtaining the curve on which the optimiz
+ation (minimization)
+ []
+
+[2 <./Sections//BrachPoints.jpg>]
+Overfull \hbox (2.94823pt too wide) in paragraph at lines 36--37
+[]\OT1/ptm/m/n/12 Because this phenomenon consists of a finite path with a fini
+te path length spanning
+ []
+
+[3]
+<Sections//OrgProbDia.jpg, id=74, 696.35156pt x 440.39531pt>
 File: Sections//OrgProbDia.jpg Graphic file (type jpg)
 <use Sections//OrgProbDia.jpg>
-Package pdftex.def Info: Sections//OrgProbDia.jpg  used on input line 72.
-(pdftex.def)             Requested size: 426.79134pt x 269.91751pt.
-
-Overfull \hbox (36.79134pt too wide) in paragraph at lines 72--73
- [][] 
- []
-
-[4 <./Sections//OrgProbDia.jpg>]) (Sections/Euler-Lagrange Equation.tex
-Overfull \hbox (5.201pt too wide) in paragraph at lines 3--4
-\OT1/cmr/m/n/12 and phenomenon. It was Euler in collaboration with Lagrange tha
-t generalized
+Package pdftex.def Info: Sections//OrgProbDia.jpg  used on input line 74.
+(pdftex.def)             Requested size: 369.88582pt x 233.92583pt.
+ [4 <./Sections//OrgProbDia.jpg>]) (Sections/Euler-Lagrange Equation.tex
+Overfull \hbox (23.72125pt too wide) in paragraph at lines 3--4
+\OT1/ptm/m/n/12 Though Newton and Bernoulli's solutions were fabulous and stunn
+ing, they approached
  []
 
 
-Overfull \hbox (11.84583pt too wide) in paragraph at lines 3--4
-\OT1/cmr/m/n/12 these sets of problems on the optimization of problems that inv
-olved functionals. 
+Overfull \hbox (7.22035pt too wide) in paragraph at lines 5--6
+\OT1/ptm/m/n/12 employ the calculus of functions that are dependent on other fu
+nctions (functionals). 
  []
 
 
-Overfull \hbox (41.71446pt too wide) in paragraph at lines 19--19
-|[]\OT1/cmr/bx/n/14.4 Evaluating the Beltrami Identity for the Brachistochrone
+Overfull \hbox (4.22092pt too wide) in paragraph at lines 11--12
+[]\OT1/ptm/m/n/12 As the functional "\OT1/ptm/m/it/12 F\OT1/ptm/m/n/12 ", does 
+not explicitly depend on \OT1/ptm/m/it/12 x\OT1/ptm/m/n/12 , the Euler-Lagrange
+ equation
  []
 
 [5]
-Overfull \hbox (9.31395pt too wide) detected at line 53
-[] [] \OMS/cmsy/m/n/12  \OT1/cmr/m/n/12 2\OML/cmm/m/it/12 k[] []  [] d \OT1
-/cmr/m/n/12 = [] [] \OMS/cmsy/m/n/12  \OT1/cmr/m/n/12 2\OML/cmm/m/it/12 k[] []
-  [] d \OT1/cmr/m/n/12 = 2\OML/cmm/m/it/12 k[] [] [][] d
+Overfull \hbox (11.25621pt too wide) detected at line 53
+[] [] \OMS/ztmcm/m/n/12  \OT1/ztmcm/m/n/12 2\OML/ztmcm/m/it/12 k[] []  [] d
+ \OT1/ztmcm/m/n/12 = [] [] \OMS/ztmcm/m/n/12  \OT1/ztmcm/m/n/12 2\OML/ztmcm/m/
+it/12 k[] []  [] d \OT1/ztmcm/m/n/12 = 2\OML/ztmcm/m/it/12 k[] [] [][] d
  []
 
 [6]
@@ -1427,7 +1512,24 @@ l.77 ...eft(1 - \cos2\theta\right) \\ \end{array}}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-) (Sections/The Curve-Cycloid.tex [7]
+) (Sections/The Curve-Cycloid.tex
+Overfull \hbox (0.68001pt too wide) in paragraph at lines 9--10
+[]\OT1/ptm/m/n/12 But if we are to allow the circle that forms the cycloid curv
+e to rotate in a clockwise
+ []
+
+
+Overfull \hbox (6.93245pt too wide) in paragraph at lines 9--10
+\OT1/ptm/m/n/12 direction with an angle $\OML/ztmcm/m/it/12 $ \OT1/ptm/m/n/12 
+from the bottom of the circle, the above standard equations
+ []
+
+[7]
+Overfull \hbox (30.14023pt too wide) in paragraph at lines 23--24
+[]\OT1/ptm/m/n/12 However in the \OT1/ptm/m/it/12 y \OT1/ptm/m/n/12 direction, 
+the only correction that needs to be done is the generalization,
+ []
+
 
 ! Package array Error:  Illegal pream-token (1): `c' used.
 
@@ -1442,13 +1544,35 @@ If that doesn't work, type  X <return>  to quit.
 
 ) (Sections/Differential Equations of the Cycloid.tex [8])
 (Sections/Solving for Travel Time Minimization.tex [9]
-Overfull \hbox (62.32086pt too wide) detected at line 35
-\OML/cmm/m/it/12 r [] [] \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12   [] \OT1/cmr/m/n/1
-2 = \OMS/cmsy/m/n/12   []
+Overfull \hbox (41.15865pt too wide) detected at line 35
+\OML/ztmcm/m/it/12 r [] [] \OT1/ztmcm/m/n/12 = \OMS/ztmcm/m/n/12   [] \OT1/ztmc
+m/m/n/12 = \OMS/ztmcm/m/n/12   []
  []
 
-[10]) (Sections/Calculation of Sample Path.tex [11]
-<Sections//cycplt.jpg, id=126, 664.73344pt x 455.45157pt>
+[10]) (Sections/Calculation of Sample Path.tex
+Overfull \hbox (0.72813pt too wide) in paragraph at lines 3--4
+\OT1/ptm/m/n/12 Up till now, all I have done is to try to understand the nature
+ of the brachistiochrone
+ []
+
+
+Overfull \hbox (4.97557pt too wide) in paragraph at lines 3--4
+\OT1/ptm/m/n/12 problem and its solution. I have explored various parametric eq
+uations that describe
+ []
+
+
+Overfull \hbox (1.13228pt too wide) in paragraph at lines 5--6
+\OML/ztmcm/m/it/12 B\OT1/ztmcm/m/n/12 (\OML/ztmcm/m/it/12 x[]; y[]\OT1/ztmcm/m/
+n/12 )$\OT1/ptm/m/n/12 , where $\OML/ztmcm/m/it/12 x[] \OT1/ztmcm/m/n/12 = 0\OM
+L/ztmcm/m/it/12 ; y[] \OT1/ztmcm/m/n/12 = 0\OML/ztmcm/m/it/12 ; x[] \OT1/ztmcm/
+m/n/12 = 4$ \OT1/ptm/m/n/12 and $\OML/ztmcm/m/it/12 y[] \OT1/ztmcm/m/n/12 = \OM
+S/ztmcm/m/n/12  \OT1/ztmcm/m/n/12 3$\OT1/ptm/m/n/12 . Before evaluating the pro
+blem,
+ []
+
+[11]
+<Sections//cycplt.jpg, id=131, 664.73344pt x 455.45157pt>
 File: Sections//cycplt.jpg Graphic file (type jpg)
 <use Sections//cycplt.jpg>
 Package pdftex.def Info: Sections//cycplt.jpg  used on input line 45.
@@ -1458,48 +1582,73 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 45--46
  [][] 
  []
 
-[12]) [13 <./Sections//cycplt.jpg>] (Sections/Conclusion.tex
-Overfull \hbox (8.7029pt too wide) in paragraph at lines 9--10
-\OT1/cmr/m/n/12 papers through my "basic" investigation, which I found while su
-rfing Wikipedia
+[12] [13 <./Sections//cycplt.jpg>]
+<Sections//BrachDia.png, id=144, 462.528pt x 346.896pt>
+File: Sections//BrachDia.png Graphic file (type png)
+<use Sections//BrachDia.png>
+Package pdftex.def Info: Sections//BrachDia.png  used on input line 71.
+(pdftex.def)             Requested size: 426.79134pt x 320.11154pt.
+
+Overfull \hbox (36.79134pt too wide) in paragraph at lines 71--72
+ [][] 
+ []
+
+[14 <./Sections//BrachDia.png>]) (Sections/Conclusion v2.tex
+Overfull \hbox (19.06416pt too wide) in paragraph at lines 15--16
+\OT1/ptm/m/n/12 The very fact that this simple-sounding problem was the eventua
+l reason for significant
  []
 
 
-Overfull \hbox (12.04166pt too wide) in paragraph at lines 15--16
-[]\OT1/cmr/m/n/12 Cetain topics used in this investigation are generally taught
- at an undergraduate
+Overfull \hbox (5.24022pt too wide) in paragraph at lines 17--18
+\OT1/ptm/m/n/12 late one night, Articles, lecture notes, books, physics applica
+tions. In the beginning,
  []
 
-
-Overfull \hbox (8.51123pt too wide) in paragraph at lines 15--16
-\OT1/cmr/m/n/12 level, but with time, I learnt and understood them with the use
- of mathematical
+) [15] (Works Cited/Bib v3.tex
+Underfull \hbox (badness 7081) in paragraph at lines 11--12
+[]\OT1/ptm/m/n/12 \The Brachistochrone Problem." SciPython, []$\OT1/cmtt/m/n/12
+ scipython . com / blog /
  []
 
-) [14] (main.aux)
+) (Appendix/appdix v2.tex (Appendix/./Python Source Codes v2.tex [16
+
+]
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 9.
+ [17]
+[18]
+LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 
+115.
+ (C:\MikTek\tex/latex/base\ts1cmtt.fd
+File: ts1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+))) [19] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 516975F4C815A0E087E0CFA92D1C2688;1756.
+(rerunfilecheck)             Checksum: 52C2C538FFE44DB58CDAA9AB5DB94FF9;1655.
  ) 
 Here is how much of TeX's memory you used:
- 36422 strings out of 478868
- 804888 string characters out of 2865271
- 1300114 words of memory out of 3000000
- 53612 multiletter control sequences out of 15000+600000
- 420232 words of font info for 86 fonts, out of 8000000 for 9000
+ 37224 strings out of 478868
+ 814375 string characters out of 2865271
+ 1575115 words of memory out of 3000000
+ 54230 multiletter control sequences out of 15000+600000
+ 449882 words of font info for 141 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,9n,89p,1195b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
-<C:/MikTek/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/MikTek/fonts/type1/p
-ublic/amsfonts/cm/cmbxti10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmex10
-.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/MikTek/fonts/type
-1/public/amsfonts/cm/cmmi8.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmr12.
-pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/MikTek/fonts/type1/p
-ublic/amsfonts/cm/cmr8.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-><C:/MikTek/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/MikTek/fonts/type1/pub
-lic/amsfonts/cm/cmsy8.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-<C:/MikTek/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (15 pages, 383748 bytes).
+ 84i,9n,94p,1195b,2116s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\Sayeed Ahmad\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi6
+00\tctt1000.pk>{C:/MikTek/fonts/enc/dvips/base/8r.enc}<C:/MikTek/fonts/type1/pu
+blic/amsfonts/cm/cmbxti10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmex10.
+pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/MikTek/fonts/type1
+/public/amsfonts/cm/cmr10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/MikTek/fonts/type1
+/public/amsfonts/cm/cmtt10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmtt12
+.pfb><C:/MikTek/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/MikTek/fonts
+/type1/urw/symbol/usyr.pfb><C:/MikTek/fonts/type1/urw/symbol/usyr.pfb><C:/MikTe
+k/fonts/type1/urw/times/utmb8a.pfb><C:/MikTek/fonts/type1/urw/times/utmbi8a.pfb
+><C:/MikTek/fonts/type1/urw/times/utmr8a.pfb><C:/MikTek/fonts/type1/urw/times/u
+tmri8a.pfb>
+Output written on main.pdf (20 pages, 444987 bytes).
 PDF statistics:
- 211 PDF objects out of 1000 (max. 8388607)
- 37 named destinations out of 1000 (max. 500000)
- 100 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 398 PDF objects out of 1000 (max. 8388607)
+ 158 named destinations out of 1000 (max. 500000)
+ 113 words of extra memory for PDF output out of 10000 (max. 10000000)
 
