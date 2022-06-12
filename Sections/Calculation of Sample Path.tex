@@ -1,0 +1,63 @@
+
+
+{Up till now, all we have done is to try to understand the nature of the brachistiochrone problem and its solution. We have explored various parametric equations that describe the curve of fastest descent, but we now would like to apply it to a real problem with real coordinates to define a real curve from real points to investigate the curve and the time it takes for a spherical mass to follow this curve-path.}
+
+{Let us investigate the brachistochrone curve between the points $A(x_{1},y_{1})$ and $B(x_{2},y_{2})$, where $x_{1} = 0, y_{1} = 0, x_{2} = 4$ and $y_{2} = -3$. Before evaluating the problem, we would like that the beginning point of the curve be placed at the peaks of the cycloid as this ensures that the mass sliding through the curve would attain the highest velocity (as the tangent at the initial point would be a vertical line), However this requires that the parametric equations to be of $\theta\in2\pi n$, where $n\in\mathbb{Z}^{+}$.}
+
+{Therefore by inputting the values of $x_{2}$ and $y_{2}$ we have,}
+
+	\begin{equation}
+		4 = r\left(\theta - \sin\theta\right)
+		\label{x2eq}
+	\end{equation}
+
+	\begin{equation}
+		-3 = r\left(1 - \cos\theta\right)
+		\label{y2eq}
+	\end{equation}
+
+{Implies,}
+
+	$$r = \frac{4}{\theta - \sin\theta}$$
+
+{Substituting the value for \textit{r} in \ref{y2eq}, we have,}
+
+	$$-3 = \left(\frac{4}{\theta - \sin\theta}\right)\left(1 - \cos\theta\right)$$
+
+{Implies,}
+
+	$$-3\left(\theta - \sin\theta\right) = 4\left(1 - \cos\theta\right)$$
+
+{Solving for $\theta$ using a GDC, we have, $\theta = -2.87995$. Therefore we have,}
+
+	$$r = \frac{4}{-2.87995 - \sin -2.87995} \approx -1.52597$$
+
+{Sustituting this value of \textit{r} in equations \ref{cyceq}, we have,}
+
+	$$x = -1.53\left(\theta - \sin\theta\right)$$
+
+	$$y = 1.53\left(1 - \cos\theta\right)$$
+
+{Plotting the above parametric equations on Desmos we get,}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=15cm]{cycplt.jpg}
+    		\caption{{Plot of the parametric equations that plot the cycloid}}
+\end{figure}
+
+{As we can see, the above curve passes through the points $A(0,0)$ and $B(3,-4)$}
+
+{Using equation \ref{Tcal}, we can find the time it takes for an object/mass to slide from the initial point, to the final point, ie. the the points $A(0,0)$ and $B(3,-4)$. Therefore the time it takes to reach from the initial to the final point is,}
+
+{If we consider each point to be in the units of meters, then we have,}
+
+	$$T = \left|\sqrt{\frac{-1.52597}{-9.81}}\cdot -2.87995\right|$$
+
+{Therefore,}
+
+	$$T \approx 1.13586 s$$
+
+{This time is relatively much shorter than if an object were to slide down a ramp from point $A(0,0)$ to $B(3,-4)$.}
+
+
