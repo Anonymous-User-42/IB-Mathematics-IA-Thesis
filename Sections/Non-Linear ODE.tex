@@ -1,26 +1,26 @@
 
 
-\subsection{\textit{Non-Linear ODE}}
+\subsection{{Non-Linear ODE}}
 
-	\textit{When dealing with non-linear ODE's, applying integral transforms and/or series to decompose terms in the ODE into sum of infinitesimal sines and cosines is excruciatingly difficult.}
+	{When dealing with non-linear ODE's, applying integral transforms and/or series to decompose terms in the ODE into sum of infinitesimal sines and cosines is excruciatingly difficult.}
 
-	\textit{A we discussed above, this is because the Laplace and the Fourier transforms are linear operators, and consequently can be only applied when an ODE is linear, as for the Fourier series, it can be applied on linear or non-linear ODE's, whereas a linearized ODE simplifies the decomposition process of terms in an ODE.}
+	{A we discussed above, this is because the Laplace and the Fourier transforms are linear operators, and consequently can be only applied when an ODE is linear, as for the Fourier series, it can be applied on linear or non-linear ODE's, whereas a linearized ODE simplifies the decomposition process of terms in an ODE.}
 
-	\textit{But this does not the limit the scope of the use of integral transforms and/or series as we fundamentally know that, any and all non-linear ODE's can be decomposed into a linear system with some clever change of variables and substitution.}
+	{But this does not the limit the scope of the use of integral transforms and/or series as we fundamentally know that, any and all non-linear ODE's can be decomposed into a linear system with some clever change of variables and substitution.}
 
-	\textit{Once we have accomplished to convert a non-linear system/ODE into a linear system/ODE then the process what follows for the application of the Laplace/Fourier transforms and/or Fourier series is pretty much the same as the original linear ODE case we have begun with, it might be even simpler.}
+	{Once we have accomplished to convert a non-linear system/ODE into a linear system/ODE then the process what follows for the application of the Laplace/Fourier transforms and/or Fourier series is pretty much the same as the original linear ODE case we have begun with, it might be even simpler.}
 
-	\textit{\textbf{Note}: Linearizing an non-linear ODE is an additional step to solve and compute the transforms/series of non-linear systems.}
+	{\textbf{Note}: Linearizing an non-linear ODE is an additional step to solve and compute the transforms/series of non-linear systems.}
 
-	\subsubsection{\textit{Linearization of non-linear ODE}}
+	\subsubsection{{Linearization of non-linear ODE}}
 		
-		\textit{If we have a non-linear system comprising of a non-linear ODE, then in order to apply the Laplace and Fourier transform, we can convert the non-linear ODE into a linear ODE with some clever change of variables and variable substitution.}		
+		{If we have a non-linear system comprising of a non-linear ODE, then in order to apply the Laplace and Fourier transform, we can convert the non-linear ODE into a linear ODE with some clever change of variables and variable substitution.}		
 		
-		\textit{To elucidate this in detail, I shall be utilizing the non-linear ODE as an example. Namely,}		
+		{To elucidate this in detail, I shall be utilizing the non-linear ODE as an example. Namely,}		
 		
 			$$a_3\left(\dddot{y}\right)^2 + a_2\ddot{y} + a_1\left(\dot{y}\right)^2 + a_0y = c$$		
 		
-		\textit{If we make a substitution for $y = u^4$, for some arbitrary variable u, then we have,}		
+		{If we make a substitution for $y = u^4$, for some arbitrary variable u, then we have,}		
 		
 			$$\dot{y} = 4u^3$$
 			
@@ -28,48 +28,48 @@
 			
 			$$\dddot{y} = 24u$$
 			
-		\textit{Therefore, we have,}		
+		{Therefore, we have,}		
 		
 			$$a_3\left(24u\right)^2 + a_2\left(12u^2\right) + a_1\left(4u^3\right)^2 + a_0\left(u^4\right) = c$$
 		
-		\textit{Implies,}
+		{Implies,}
 		
 			$$\left(576a_3\right)u^2 + \left(12a_2\right)u^2 + \left(16a_1\right)u^6 + \left(a_0\right)u^4 = c$$		
 		
-		\textit{Now what the above expression appears to be is a nasty algebraic equation in variable u, but this can be further depressed, if we make a substitution for $v = u^2$, for some arbitrary variable v, then we have,}		
+		{Now what the above expression appears to be is a nasty algebraic equation in variable u, but this can be further depressed, if we make a substitution for $v = u^2$, for some arbitrary variable v, then we have,}		
 		
 			$$\left(576a_3\right)v + \left(12a_2\right)v + \left(16a_1\right)v^3 + \left(a_0\right)v^2 = c$$		
 		
-		\textit{Regrouping and rearranging the terms in the equation, we have,}
+		{Regrouping and rearranging the terms in the equation, we have,}
 		
 			$$\left(16a_1\right)v^3 + \left(a_0\right)v^2 + \left(576a_3 + 12a_2\right)v = c$$		
 		
-		\textit{As it is evident from the above equation, we have cleverly manipulated variables and derivatives to depress the original non-linear ODE into a cubic polynomial in variable v, if the $a_n$'s and c are some arbitrary constants or not functions in y, then this can be solved directly with some algebraic manipulation. The necessary aid of transforms truly comes when, the $a_n$'s and c are functions in y.}		
+		{As it is evident from the above equation, we have cleverly manipulated variables and derivatives to depress the original non-linear ODE into a cubic polynomial in variable v, if the $a_n$'s and c are some arbitrary constants or not functions in y, then this can be solved directly with some algebraic manipulation. The necessary aid of transforms truly comes when, the $a_n$'s and c are functions in y.}		
 		
-		\textit{To elucidate on the solution of non-linear ODE when the $a_n$'s and c are functions in a better manner, I shall be assign $a_0 = 1$, $a_1 = \sin y$, $a_2 = 1}$, $a_3 = \cos x$ and $c=0$.}		
+		{To elucidate on the solution of non-linear ODE when the $a_n$'s and c are functions in a better manner, I shall be assign $a_0 = 1$, $a_1 = \sin y$, $a_2 = 1}$, $a_3 = \cos x$ and $c=0$.}		
 		
-		\textit{Therefore we have,}
+		{Therefore we have,}
 		
 			$$(16\sin y)v^3 + v^2 + (576\cos y + 12)v = 0$$		
 		
-		\textit{But, $y = u^4 = \left(u^2\right)^2 = v^2$, therefore we have,}		
+		{But, $y = u^4 = \left(u^2\right)^2 = v^2$, therefore we have,}		
 		
 			$$16\sin\left(v^2\right)v^3 + v^2 + (576\cos\left(v^2\right) + 12)v = 0$$		
 		
-	\subsubsection{\textit{Fourier Series}}
+	\subsubsection{{Fourier Series}}
 	
-		\textit{The Fourier series would be of use when, $a_n$'s and c are non-trig functions of y, then we an yield the Fourier series and continue with the Maclaurin series, as the Fourier series would decompose any function into a series of sines and cosines. But as in this case, we already have all functions in trigonometric function form, therefore we can continue with applying the Fourier series.}	
+		{The Fourier series would be of use when, $a_n$'s and c are non-trig functions of y, then we an yield the Fourier series and continue with the Maclaurin series, as the Fourier series would decompose any function into a series of sines and cosines. But as in this case, we already have all functions in trigonometric function form, therefore we can continue with applying the Fourier series.}	
 	
-	\subsubsection{\textit{Maclaurin Series}}
+	\subsubsection{{Maclaurin Series}}
 
-		\textit{To approximately solve the above ODE we can use the Maclaurin series of sine and cosine, which is,}
+		{To approximately solve the above ODE we can use the Maclaurin series of sine and cosine, which is,}
 
 			$$\sin y = \sin\left(v^2\right) \approx v^2 - \frac{\left(v^2\right)^3}{3!} + \frac{\left(v^2\right)^5}{5!} - \frac{\left(v^2\right)^7}{7!} + \frac{\left(v^2\right)^9}{9!}$$
 
 		$$\cos y = \cos\left(v^2\right) \approx 1 - \frac{\left(v^2)^2}{2!} + \frac{\left(v^2\right)^4}{4!} - \frac{\left(v^2\right)^6}{6!} + \frac{\left(v^2\right)^8}{8!}$$
 
-		\textit{We can make the above substitution in the non-linear ODE with trig functions in the principal function, and either solve the equation with algebraic manipulation or by applying the Transforms used to solve linear ODE's as after the substitution, the system would become linear.}
+		{We can make the above substitution in the non-linear ODE with trig functions in the principal function, and either solve the equation with algebraic manipulation or by applying the Transforms used to solve linear ODE's as after the substitution, the system would become linear.}
 
-		\textit{\textbf{Note}: The above method on using the Fourier and Maclaurin series just yeilds an approximate solution. The accuracy of the solution depends on the number of terms from the infinite expansion taken into account, for substitution in the ODE.}
+		{\textbf{Note}: The above method on using the Fourier and Maclaurin series just yeilds an approximate solution. The accuracy of the solution depends on the number of terms from the infinite expansion taken into account, for substitution in the ODE.}
 
 

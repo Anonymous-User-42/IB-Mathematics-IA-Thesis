@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  9 NOV 2021 08:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  13 NOV 2021 01:10
 entering extended mode
 **./main.tex
 (main.tex
@@ -1282,31 +1282,31 @@ and I'll forget about whatever was undefined.
 (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 83.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 85.
 LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 8
-3.
+5.
  (C:\MikTek\tex/latex/cbfonts-fd\lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    ... okay on input line 85.
 
 (C:\MikTek\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1329,7 +1329,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (C:\MikTek\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 83.
+Package hyperref Info: Link coloring OFF on input line 85.
 
 (C:\MikTek\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1342,9 +1342,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count338
 )
-LaTeX Info: Redefining \ref on input line 83.
-LaTeX Info: Redefining \pageref on input line 83.
-LaTeX Info: Redefining \nameref on input line 83.
+LaTeX Info: Redefining \ref on input line 85.
+LaTeX Info: Redefining \pageref on input line 85.
+LaTeX Info: Redefining \nameref on input line 85.
  (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -1361,17 +1361,17 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.86 
+l.88 
      
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 86.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 88.
 
 (C:\MikTek\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 86.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 88.
 
  (C:\MikTek\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1379,65 +1379,25 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 LaTeX Warning: No \author given.
 
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.87 \tableofcontents
-                     
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-(main.tocpdfTeX warning (ext4): destination with the same identifier (name{page
-.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.27 ...place Transform}}{13}{subsubsection.5.1.1}
-                                                  % [1])
-\tf@toc=\write5
-\openout5 = `main.toc'.
-
- [2]
-(Sections/Abstract.tex) (Sections/Introduction.tex
-Overfull \hbox (15.26292pt too wide) in paragraph at lines 4--5
-\OT1/cmr/bx/it/12 Engineering\OT1/cmr/m/it/12 . The fundamental concepts of the
- \OT1/cmr/bx/it/12 Laplace transform\OT1/cmr/m/it/12 , \OT1/cmr/bx/it/12 Fourie
-r
+(Sections/Introduction.tex
+Overfull \hbox (23.44518pt too wide) in paragraph at lines 4--5
+\OT1/cmss/m/n/12 I have chosen this research question because I intend to study
+ \OT1/cmss/bx/n/12 Electrical Engineering\OT1/cmss/m/n/12 .
  []
 
 
-Overfull \hbox (12.8816pt too wide) in paragraph at lines 4--5
-\OT1/cmr/m/it/12 which implies that \OT1/cmr/bx/it/12 modern day computers \OT1
-/cmr/m/it/12 and \OT1/cmr/bx/it/12 computational technology
+Overfull \hbox (4.32042pt too wide) in paragraph at lines 4--5
+\OT1/cmss/m/n/12 that is "\OT1/cmss/bx/n/12 Signal processing\OT1/cmss/m/n/12 "
+, without which any sort of \OT1/cmss/bx/n/12 communication\OT1/cmss/m/n/12 , t
+hrough
  []
 
-) (Sections/Aim.tex)
-Overfull \hbox (8.89542pt too wide) in paragraph at lines 1--107
-\OT1/cmr/bx/it/12 Fourier transform \OT1/cmr/m/it/12 and the \OT1/cmr/bx/it/12 
-Fourier series\OT1/cmr/m/it/12 , if so what is its \OT1/cmr/bx/it/12 mathematic
-al
- []
-
-
-Overfull \hbox (14.01007pt too wide) in paragraph at lines 1--107
-\OT1/cmr/bx/it/12 significance \OT1/cmr/m/it/12 and how can it be optimally use
-d to solve \OT1/cmr/bx/it/12 Ordinary Differential
- []
-
-(Sections/Background Research Mod 2.tex
+) (Sections/Aim.tex) (Sections/Background Research Mod 2.tex
 (Sections//./Generalized form of a Differential Equation.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\\' on input line 3.
 
-
-Overfull \hbox (0.79808pt too wide) in paragraph at lines 5--6
-\OT1/cmr/m/it/12 An Ordinary Differential Equation in one variable is generally
- mathematically
- []
-
-[3
-
-]
 ! Display math should end with $$.
 <to be read again> 
                     
@@ -1446,44 +1406,27 @@ l.7 ...\dot{y}\bigg)^f + a_{0}\bigg(y\bigg)^g = c$
 The `$' that I just saw supposedly matches a previous `$$'.
 So I shall assume that you typed `$$' both times.
 
-
-Overfull \hbox (3.45366pt too wide) in paragraph at lines 31--32
-\OT1/cmr/m/it/12 differentiate differential equation with other forms of the di
-fferential equations.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.7 ...\dot{y}\bigg)^f + a_{0}\bigg(y\bigg)^g = c$
+                                                   [1])
+(Sections//./Types of Ordinary Differential Equations.tex
+Overfull \hbox (48.90994pt too wide) in paragraph at lines 9--10
+\OT1/cmss/m/n/12 Linear Ordinary Differential Equations are differential equati
+ons where, the degree/exponent
  []
 
-) (Sections//./Types of Ordinary Differential Equations.tex [4]
-Overfull \hbox (28.53722pt too wide) in paragraph at lines 13--14
-\OT1/cmr/m/it/12 An Ordinary Differential equation is said to be non-linear whe
+[2]
+Overfull \hbox (8.7396pt too wide) in paragraph at lines 13--14
+\OT1/cmss/m/n/12 An Ordinary Differential equation is said to be non-linear whe
 n the degree/exponent
  []
 
-
-Overfull \hbox (8.5537pt too wide) in paragraph at lines 13--14
-\OT1/cmr/m/it/12 differential equation is a non-differentiable function of in t
-he principal function,
- []
-
-) (Sections//./Types of Domains.tex [5]) (Sections//./The Laplace Transform.tex
-) (Sections//./The Fourier Transform.tex
-Overfull \hbox (4.81482pt too wide) in paragraph at lines 5--6
-\OT1/cmr/m/it/12 The Fourier Transform is also an integral transform that trans
-forms a function
- []
-
-
-Overfull \hbox (7.26471pt too wide) in paragraph at lines 5--6
-\OT1/cmr/m/it/12 from the time domain to the complex frequency-domain. The Four
-ier transform
- []
-
-[6]
-Overfull \hbox (7.65367pt too wide) in paragraph at lines 11--12
-\OT1/cmr/m/it/12 that this transform can be used to compute the solutions of di
-fferential equations
- []
-
-) (Sections//./Trigonometric Series.tex
+) (Sections//./Types of Domains.tex [3]) (Sections//./The Laplace Transform.tex
+) (Sections//./The Fourier Transform.tex [4])
+(Sections//./Trigonometric Series.tex
 ! Missing } inserted.
 <inserted text> 
                 }
@@ -1506,13 +1449,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-) (Sections//./The Fourier Series.tex
-Overfull \hbox (15.015pt too wide) in paragraph at lines 5--6
-\OT1/cmr/m/it/12 The Fourier Series is a infinite summation representation of s
-inusoidal functions
- []
-
-[7]
+) (Sections//./The Fourier Series.tex [5]
 ! Missing } inserted.
 <inserted text> 
                 }
@@ -1546,20 +1483,11 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-) (Sections//./Parseval's Theorem.tex [8]) (Sections//./Maclaurin Series.tex))
-Overfull \hbox (15.82709pt too wide) in paragraph at lines 148--148
-|[]\OT1/cmr/bx/it/17.28 Representation of the transforms and series| 
- []
-
+) (Sections//./Parseval's Theorem.tex [6]) (Sections//./Maclaurin Series.tex))
 (Sections/Representation of the transforms and series.tex
 (Sections//./Analytical representation of the transforms and series.tex
-Overfull \hbox (2.07698pt too wide) in paragraph at lines 5--6
-\OT1/cmr/m/it/12 When analyzing and investigating the Laplace transform, which 
-was previously
- []
-
-[9]) (Sections//./Graphical representation of the transforms and series.tex
-<Sections//LapPictures/bk.png, id=230, 910.40125pt x 688.5725pt>
+[7]) (Sections//./Graphical representation of the transforms and series.tex
+<Sections//LapPictures/bk.png, id=186, 910.40125pt x 688.5725pt>
 File: Sections//LapPictures/bk.png Graphic file (type png)
 <use Sections//LapPictures/bk.png>
 Package pdftex.def Info: Sections//LapPictures/bk.png  used on input line 13.
@@ -1569,8 +1497,8 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 13--14
  [][] 
  []
 
-[10]
-<Sections//FouPictures/bk.png, id=235, 910.40125pt x 688.5725pt>
+[8]
+<Sections//FouPictures/bk.png, id=191, 910.40125pt x 688.5725pt>
 File: Sections//FouPictures/bk.png Graphic file (type png)
 <use Sections//FouPictures/bk.png>
 Package pdftex.def Info: Sections//FouPictures/bk.png  used on input line 25.
@@ -1580,13 +1508,9 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 25--26
  [][] 
  []
 
-[11 <./Sections//LapPictures/bk.png (PNG copy)>]))
-Overfull \hbox (8.1806pt too wide) in paragraph at lines 152--152
-|[]\OT1/cmr/bx/it/17.28 Solving ODE's using transforms and series| 
- []
-
+[9 <./Sections//LapPictures/bk.png (PNG copy)>]))
 (Sections/Solving ODE's using transforms and series.tex
-(Sections//./Linear ODE.tex [12 <./Sections//FouPictures/bk.png (PNG copy)>]
+(Sections//./Linear ODE.tex [10 <./Sections//FouPictures/bk.png (PNG copy)>]
 
 ! LaTeX Error: \begin{multline*} on input line 29 ended by \end{multline}.
 
@@ -1613,7 +1537,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[13]
+[11]
 
 ! LaTeX Error: \begin{multline*} on input line 45 ended by \end{multline}.
 
@@ -1627,40 +1551,14 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-Overfull \hbox (12.88824pt too wide) in paragraph at lines 55--56
-[]\OT1/cmr/m/it/12 Applying the transform, simplifying the terms in the ODE, al
-gebraically ordering
- []
-
-
-Overfull \hbox (16.65369pt too wide) in paragraph at lines 57--58
-\OT1/cmr/m/it/12 approach to annihilate the real part of the complex frequency 
-makes it increasingly
- []
-
-[14]) (Sections//./Non-Linear ODE.tex
-Overfull \hbox (32.44708pt too wide) in paragraph at lines 11--12
-\OT1/cmr/m/it/12 system/ODE then the process what follows for the application o
+[12]) (Sections//./Non-Linear ODE.tex
+Overfull \hbox (14.60498pt too wide) in paragraph at lines 11--12
+\OT1/cmss/m/n/12 system/ODE then the process what follows for the application o
 f the Laplace/Fourier
  []
 
-[15]
-Overfull \hbox (5.21587pt too wide) in paragraph at lines 47--48
-[]\OT1/cmr/m/it/12 As it is evident from the above equation, we have cleverly m
-anipulated variables
- []
-
-
-Overfull \hbox (2.42464pt too wide) in paragraph at lines 47--48
-\OT1/cmr/m/it/12 and derivatives to depress the original non-linear ODE into a 
-cubic polynomial
- []
-
-[16]
+[13] [14]
 ! Extra }, or forgotten $.
-<recently read> \egroup 
-                        
 l.49 ...ssign $a_0 = 1$, $a_1 = \sin y$, $a_2 = 1}
                                                   $, $a_3 = \cos x$ and $c=0...
 I've deleted a group-closing symbol because it seems to be
@@ -1680,56 +1578,53 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-
-Overfull \hbox (22.29375pt too wide) in paragraph at lines 71--72
-\OT1/cmr/m/it/12 in the principal function, and either solve the equation with 
-algebraic manipulation
- []
-
-
-Overfull \hbox (19.07611pt too wide) in paragraph at lines 71--72
-\OT1/cmr/m/it/12 or by applying the Transforms used to solve linear ODE's as af
-ter the substitution,
- []
-
-[17])) (Sections/Conclusion.tex
-Overfull \hbox (24.84378pt too wide) in paragraph at lines 3--4
-\OT1/cmr/m/it/12 between various transforms, series and the many ways with the 
+)) [15] (Sections/Conclusion.tex
+Overfull \hbox (4.51752pt too wide) in paragraph at lines 3--4
+\OT1/cmss/m/n/12 between various transforms, series and the many ways with the 
 aid of mathematical
  []
 
-) [18] (Works Cited/Bib.tex
-Underfull \hbox (badness 2012) in paragraph at lines 41--42
-\OT1/cmr/m/n/12 Equations With Convolution Product Nonlinearities." \OT1/cmr/m/
-it/12 Journal of
+) [16] (Works Cited/Bib.tex
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 3.
+
+LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <12> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 41.
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+\OT1/cmss/m/n/12 Equations With Convolution Product Nonlinearities." \OT1/cmss/
+m/sl/12 Journal of
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 47--48
-[]\OT1/cmr/m/n/12 \Applications of Second-Order Differential Equations."
+[]\OT1/cmss/m/n/12 \Applications of Second-Order Differential Equations." \OT1/
+cmss/m/sl/12 Index
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 47--48
-\OT1/cmr/m/it/12 Index of /Data/CALCULUS Concepts and Contexts/Upfiles\OT1/cmr/
-m/n/12 ,
+\OT1/cmss/m/sl/12 of /Data/CALCULUS Concepts and Contexts/Upfiles\OT1/cmss/m/n/
+12 , []$\OT1/cmtt/m/n/12 www .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 47--48
-[]$\OT1/cmtt/m/n/12 www . stewartcalculus . com / data / CALCULUS % 20Concepts 
-% 20and %
+\OT1/cmtt/m/n/12 stewartcalculus . com / data / CALCULUS % 20Concepts % 20and %
+
  []
 
 
-Underfull \hbox (badness 2351) in paragraph at lines 101--102
-[]\OT1/cmr/m/n/12 \M2. Differential Equations in Physics." \OT1/cmr/m/it/12 You
-Tube\OT1/cmr/m/n/12 , uploaded by
+Underfull \hbox (badness 1303) in paragraph at lines 59--60
+\OT1/cmss/m/sl/12 Equations\OT1/cmss/m/n/12 , []$\OT1/cmtt/m/n/12 people . uncw
+ . edu / hermanr / mat361 / ODEBook$[]\OT1/cmss/m/n/12 . Accessed 2
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 152--153
-[]\OT1/cmr/m/n/12 \What Does the Laplace Transform Really Tell Us? A Visual
+Underfull \hbox (badness 2600) in paragraph at lines 149--150
+\OT1/cmss/m/n/12 on Finite Intervals." \OT1/cmss/m/sl/12 SpringerPlus\OT1/cmss/
+m/n/12 , vol. 3, no. 1, 2014. \OT1/cmss/m/sl/12 Crossref\OT1/cmss/m/n/12 ,
  []
 
 ! Misplaced alignment tab character &.
@@ -1743,26 +1638,15 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 173--174
-[]\OT1/cmr/m/n/12 Hayek, Sabih I. \Mechanical Vibration and Damping."
+Underfull \hbox (badness 1874) in paragraph at lines 167--168
+[]\OT1/cmss/m/n/12 Simionescu, P. \OT1/cmss/m/sl/12 Computer-Aided Graphing and
+ Simulation Tools for
  []
 
+[17
 
-Underfull \hbox (badness 10000) in paragraph at lines 173--174
-\OT1/cmr/m/it/12 Digital Encyclopedia of Applied Physics\OT1/cmr/m/n/12 , 2003.
- \OT1/cmr/m/it/12 Crossref\OT1/cmr/m/n/12 ,
- []
-
-[19
-
-]
-Underfull \hbox (badness 1728) in paragraph at lines 179--180
-[]\OT1/cmr/m/n/12 Serway, Raymond, and John Jewett. \OT1/cmr/m/it/12 Physics fo
-r Scientists and
- []
-
-) [20] (Appendix/appdix.tex (Appendix/./Laplace Table.tex
-<Appendix/Laplace-Table.png, id=307, 491.58656pt x 634.62094pt>
+]) [18] (Appendix/appdix.tex (Appendix/./Laplace Table.tex
+<Appendix/Laplace-Table.png, id=267, 491.58656pt x 634.62094pt>
 File: Appendix/Laplace-Table.png Graphic file (type png)
 <use Appendix/Laplace-Table.png>
 Package pdftex.def Info: Appendix/Laplace-Table.png  used on input line 5.
@@ -1772,37 +1656,40 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 5--6
  [][] 
  []
 
-[21
+[19
 
 ]
-Overfull \vbox (34.4413pt too high) has occurred while \output is active []
+Overfull \vbox (34.94128pt too high) has occurred while \output is active []
 
 
-[22 <./Appendix/Laplace-Table.png>])) (main.aux)
+[20 <./Appendix/Laplace-Table.png>])) (main.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 514DD3A7A59B37B34F553CBDD97D9DC2;6304.
  ) 
 Here is how much of TeX's memory you used:
- 36631 strings out of 478868
- 811471 string characters out of 2865271
- 1308115 words of memory out of 3000000
- 53718 multiletter control sequences out of 15000+600000
- 422380 words of font info for 93 fonts, out of 8000000 for 9000
+ 36624 strings out of 478868
+ 811453 string characters out of 2865271
+ 1307114 words of memory out of 3000000
+ 53716 multiletter control sequences out of 15000+600000
+ 422455 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,11n,89p,1195b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
-<C:/MikTek/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/MikTek/fonts/type1/p
-ublic/amsfonts/cm/cmbx12.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmbxti10
-.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/MikTek/fonts/type
-1/public/amsfonts/cm/cmmi12.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmmi8
-.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/MikTek/fonts/type1
-/public/amsfonts/cm/cmr6.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmr8.pfb
-><C:/MikTek/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/MikTek/fonts/type1/pu
-blic/amsfonts/cm/cmsy8.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmti10.pfb
-><C:/MikTek/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/MikTek/fonts/type1/pu
-blic/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (23 pages, 669652 bytes).
+<C:/MikTek/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/MikTek/fonts/type1
+/public/amsfonts/cm/cmex10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmmi12
+.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/MikTek/fonts/type1
+/public/amsfonts/cm/cmr12.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmr6.pf
+b><C:/MikTek/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/MikTek/fonts/type1/pub
+lic/amsfonts/cm/cmss12.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmssbx10.p
+fb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmssi12.pfb><C:/MikTek/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmsy8.
+pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/MikTek/fonts/type1
+/public/amsfonts/cm/cmtt12.pfb>
+Output written on main.pdf (21 pages, 641813 bytes).
 PDF statistics:
- 396 PDF objects out of 1000 (max. 8388607)
- 77 named destinations out of 1000 (max. 500000)
+ 356 PDF objects out of 1000 (max. 8388607)
+ 75 named destinations out of 1000 (max. 500000)
  300 words of extra memory for PDF output out of 10000 (max. 10000000)
 
