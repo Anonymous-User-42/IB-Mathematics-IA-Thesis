@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  29 JAN 2022 18:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  17 MAR 2022 01:45
 entering extended mode
 **./main.tex
 (main.tex
@@ -1223,7 +1223,47 @@ Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 ))
-(Front matter/Title Page v7.tex) (main.aux)
+(Front matter/Title Page v8.tex
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4     \begin{center}
+                      
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+\set@color ...\@pdfcolorstack push{\current@color 
+                                                  }\aftergroup \reset@color 
+l.67 \end{titlepage}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\set@color ...\@pdfcolorstack push{\current@color 
+                                                  }\aftergroup \reset@color 
+l.67 \end{titlepage}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[1
+
+
+\providecommand \oddpage@label [2]{}
+{C:/Users/Sayeed Ahmad/AppData/Local/MiKTeX/pdftex/config/pdftex.map}])
+(main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
@@ -1247,8 +1287,7 @@ LaTeX Font Info:    ... okay on input line 89.
 LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 89.
 LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 8
 9.
-
-(C:\MikTek\tex/latex/cbfonts-fd\lgrcmr.fd
+ (C:\MikTek\tex/latex/cbfonts-fd\lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
 LaTeX Font Info:    ... okay on input line 89.
@@ -1299,6 +1338,18 @@ LaTeX Info: Redefining \nameref on input line 89.
 Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.18} (current compat level: 1.17).
 
+
+! LaTeX Error: No \title given.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.92 
+     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 LaTeX Font Info:    Trying to load font information for U+msa on input line 92.
 
 (C:\MikTek\tex/latex/amsfonts\umsa.fd
@@ -1312,29 +1363,8 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 LaTeX Warning: No \author given.
 
-(Sections/Introduction.tex
-Overfull \hbox (4.94821pt too wide) in paragraph at lines 8--9
-\OT1/cmr/m/n/12 problems. The brachistochrone curve is named after the basic wo
-rds brachistos
- []
-
-
-Overfull \hbox (0.29178pt too wide) in paragraph at lines 8--9
-\OT1/cmr/m/n/12 question's simplicity but also because of the numerous solution
-s it encourages.
- []
-
-
-Overfull \hbox (1.02742pt too wide) in paragraph at lines 10--11
-[]\OT1/cmr/m/n/12 Simply put, the reader is asked to find a line connecting two
- points. According
- []
-
-[1
-
-{C:/Users/Sayeed Ahmad/AppData/Local/MiKTeX/pdftex/config/pdftex.map}])
-(Sections/Travel Time between two points.tex
-<Sections//BrachPoints.jpg, id=50, 511.9125pt x 157.33781pt>
+(Sections/Introduction.tex) (Sections/Travel Time between two points.tex
+<Sections//BrachPoints.jpg, id=48, 511.9125pt x 157.33781pt>
 File: Sections//BrachPoints.jpg Graphic file (type jpg)
 <use Sections//BrachPoints.jpg>
 Package pdftex.def Info: Sections//BrachPoints.jpg  used on input line 5.
@@ -1344,8 +1374,13 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 5--6
  [][] 
  []
 
-[2 <./Sections//BrachPoints.jpg>] [3]
-<Sections//OrgProbDia.jpg, id=67, 696.35156pt x 440.39531pt>
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.8 
+     [1] [2 <./Sections//BrachPoints.jpg>] [3]
+<Sections//OrgProbDia.jpg, id=72, 696.35156pt x 440.39531pt>
 File: Sections//OrgProbDia.jpg Graphic file (type jpg)
 <use Sections//OrgProbDia.jpg>
 Package pdftex.def Info: Sections//OrgProbDia.jpg  used on input line 72.
@@ -1355,7 +1390,7 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 72--73
  [][] 
  []
 
-[4]) (Sections/Euler-Lagrange Equation.tex
+[4 <./Sections//OrgProbDia.jpg>]) (Sections/Euler-Lagrange Equation.tex
 Overfull \hbox (5.201pt too wide) in paragraph at lines 3--4
 \OT1/cmr/m/n/12 and phenomenon. It was Euler in collaboration with Lagrange tha
 t generalized
@@ -1367,18 +1402,19 @@ Overfull \hbox (11.84583pt too wide) in paragraph at lines 3--4
 olved functionals. 
  []
 
-[5 <./Sections//OrgProbDia.jpg>]
+
 Overfull \hbox (41.71446pt too wide) in paragraph at lines 19--19
 |[]\OT1/cmr/bx/n/14.4 Evaluating the Beltrami Identity for the Brachistochrone
  []
 
-[6]
+[5]
 Overfull \hbox (9.31395pt too wide) detected at line 53
 [] [] \OMS/cmsy/m/n/12  \OT1/cmr/m/n/12 2\OML/cmm/m/it/12 k[] []  [] d \OT1
 /cmr/m/n/12 = [] [] \OMS/cmsy/m/n/12  \OT1/cmr/m/n/12 2\OML/cmm/m/it/12 k[] []
   [] d \OT1/cmr/m/n/12 = 2\OML/cmm/m/it/12 k[] [] [][] d
  []
 
+[6]
 
 ! Package array Error:  Illegal pream-token (1): `c' used.
 
@@ -1391,7 +1427,7 @@ l.77 ...eft(1 - \cos2\theta\right) \\ \end{array}}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-[7]) (Sections/The Curve-Cycloid.tex [8]
+) (Sections/The Curve-Cycloid.tex [7]
 
 ! Package array Error:  Illegal pream-token (1): `c' used.
 
@@ -1404,21 +1440,15 @@ l.30 ...left(1 - \cos\theta\right) \\ \end{array}}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-) (Sections/Differential Equations of the Cycloid.tex [9])
-(Sections/Solving for Travel Time Minimization.tex [10]
+) (Sections/Differential Equations of the Cycloid.tex [8])
+(Sections/Solving for Travel Time Minimization.tex [9]
 Overfull \hbox (62.32086pt too wide) detected at line 35
 \OML/cmm/m/it/12 r [] [] \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12   [] \OT1/cmr/m/n/1
 2 = \OMS/cmsy/m/n/12   []
  []
 
-[11]) (Sections/Calculation of Sample Path.tex
-Overfull \hbox (11.27592pt too wide) in paragraph at lines 3--4
-\OT1/cmr/m/n/12 brachistiochrone problem and its solution. We have explored var
-ious parametric
- []
-
-[12]
-<Sections//cycplt.jpg, id=130, 664.73344pt x 455.45157pt>
+[10]) (Sections/Calculation of Sample Path.tex [11]
+<Sections//cycplt.jpg, id=126, 664.73344pt x 455.45157pt>
 File: Sections//cycplt.jpg Graphic file (type jpg)
 <use Sections//cycplt.jpg>
 Package pdftex.def Info: Sections//cycplt.jpg  used on input line 45.
@@ -1428,16 +1458,34 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 45--46
  [][] 
  []
 
-[13]) [14 <./Sections//cycplt.jpg>] (Sections/Conclusion.tex) [15] (main.aux)
+[12]) [13 <./Sections//cycplt.jpg>] (Sections/Conclusion.tex
+Overfull \hbox (8.7029pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/n/12 papers through my "basic" investigation, which I found while su
+rfing Wikipedia
+ []
+
+
+Overfull \hbox (12.04166pt too wide) in paragraph at lines 15--16
+[]\OT1/cmr/m/n/12 Cetain topics used in this investigation are generally taught
+ at an undergraduate
+ []
+
+
+Overfull \hbox (8.51123pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/n/12 level, but with time, I learnt and understood them with the use
+ of mathematical
+ []
+
+) [14] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 516975F4C815A0E087E0CFA92D1C2688;1756.
  ) 
 Here is how much of TeX's memory you used:
- 36416 strings out of 478868
- 804681 string characters out of 2865271
- 1301115 words of memory out of 3000000
- 53605 multiletter control sequences out of 15000+600000
- 418162 words of font info for 80 fonts, out of 8000000 for 9000
+ 36422 strings out of 478868
+ 804888 string characters out of 2865271
+ 1300114 words of memory out of 3000000
+ 53612 multiletter control sequences out of 15000+600000
+ 420232 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,9n,89p,1195b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/MikTek/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/MikTek/fonts/type1/p
@@ -1449,9 +1497,9 @@ ublic/amsfonts/cm/cmr8.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 ><C:/MikTek/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/MikTek/fonts/type1/pub
 lic/amsfonts/cm/cmsy8.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmti12.pfb>
 <C:/MikTek/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (15 pages, 380586 bytes).
+Output written on main.pdf (15 pages, 383748 bytes).
 PDF statistics:
- 212 PDF objects out of 1000 (max. 8388607)
- 38 named destinations out of 1000 (max. 500000)
+ 211 PDF objects out of 1000 (max. 8388607)
+ 37 named destinations out of 1000 (max. 500000)
  100 words of extra memory for PDF output out of 10000 (max. 10000000)
 
