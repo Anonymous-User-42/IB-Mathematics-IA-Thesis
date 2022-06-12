@@ -1,6 +1,6 @@
 
 
-\section{\textit{Linear ODE}}
+\subsection{\textit{Linear ODE}}
 
 	\textit{When dealing with linear ODE's, applying integral transforms and/or series to decompose terms in the ODE into sum of infinitesimal sines and cosines is made possible with ease.} 
 	
@@ -12,7 +12,7 @@
 
 	\textit{Where, $a_1$, $a_2$, $a_3$ and c are some arbitrary constants or functions of some arbitrary variable, other than the principal function, y.}
 
-	\subsection{\textit{The Laplace Transform}}	
+	\subsubsection{\textit{The Laplace Transform}}	
 		
 		\textit{Applying the Laplace transform on the ODE (assuming that $a_n$'s and c are arbitrary constants) we have,}
 		
@@ -48,7 +48,7 @@
 		
 		\textit{We can infer that all that is left in the expression on the R.H.S that forms the inverse Laplace transform equals the principal function y, can be decomposed into simpler partial fractions and the inverse transform can be applied to each individual partial fraction, as it consists of only constants/function not in y and the complex frequency variable s.}		
 		
-	\subsection{\textit{The Fourier Transform}}	
+	\subsubsection{\textit{The Fourier Transform}}	
 	
 		\textit{The Fourier transform, is of not much use, as it is the same as the Laplace transform except that it is mathematically restrictive in terms of its domain to a set of values. The Fourier transform would also yield a function in the complex frequency domain but without the real part of the complex variable.}
 		
@@ -56,9 +56,11 @@
 		
 		\textit{The real difference would be be when we compute the transform of Partial Differential Equations (PDE's). When computing the transform of PDE's, the Laplacian does little help, when compared to the Fourierian, as its distinct approach to annihilate the real part of the complex frequency makes it increasingly easy to study the non-linearity of PDE's for example.}	
 	
-	\subsection{\textit{The Fourier Series}}
+	\subsubsection{\textit{The Fourier Series}}
 	
-		\textit{The Fourier series breaks down, a term that is an obstacle to an eloquent solution, by decomposing a specific term and/or a coefficient, into a sum of infinite sines and cosines. When the ODE is linear, this process is simplified extremely, such that it is easier to compute any equation that has sines and cosines and linear ODE as its part. The Fourier series can be extensively used as an appropriate approximation method (before any numerical integration algorithm is applied, ie. RK4) to compute solutions to equations that may be linear/non-linear but still cannot be solved analytically.}
+		\textit{The Fourier series breaks down, a term that is an obstacle to an eloquent solution, by decomposing a specific term and/or a coefficient, into a sum of infinite sines and cosines. When the ODE is linear, this process is simplified extremely, such that it is easier to compute any equation that has sines and cosines and linear ODE as its part.}
+		
+		\textit{The Fourier series can be extensively used as an appropriate approximation method (before any numerical integration algorithm is applied, ie. RK4) to compute solutions to equations that may be linear/non-linear but still cannot be solved analytically.}
 
 
 
