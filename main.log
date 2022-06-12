@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  3 APR 2022 01:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  3 APR 2022 19:45
 entering extended mode
 **./main.tex
 (main.tex
@@ -1525,6 +1525,12 @@ from the bottom of the circle, the above standard equations
  []
 
 
+Overfull \hbox (3.5713pt too wide) in paragraph at lines 13--14
+\OT1/ptm/m/n/12 I have to embed this periodic movement mathematically in the pa
+rametric functions
+ []
+
+
 Overfull \hbox (30.14023pt too wide) in paragraph at lines 23--24
 []\OT1/ptm/m/n/12 However in the \OT1/ptm/m/it/12 y \OT1/ptm/m/n/12 direction, 
 the only correction that needs to be done is the generalization,
@@ -1563,13 +1569,17 @@ uations that describe
  []
 
 
-Overfull \hbox (1.13228pt too wide) in paragraph at lines 5--6
-\OML/ztmcm/m/it/12 B\OT1/ztmcm/m/n/12 (\OML/ztmcm/m/it/12 x[]; y[]\OT1/ztmcm/m/
-n/12 )$\OT1/ptm/m/n/12 , where $\OML/ztmcm/m/it/12 x[] \OT1/ztmcm/m/n/12 = 0\OM
-L/ztmcm/m/it/12 ; y[] \OT1/ztmcm/m/n/12 = 0\OML/ztmcm/m/it/12 ; x[] \OT1/ztmcm/
-m/n/12 = 4$ \OT1/ptm/m/n/12 and $\OML/ztmcm/m/it/12 y[] \OT1/ztmcm/m/n/12 = \OM
-S/ztmcm/m/n/12  \OT1/ztmcm/m/n/12 3$\OT1/ptm/m/n/12 . Before evaluating the pro
-blem,
+Overfull \hbox (7.4229pt too wide) in paragraph at lines 5--6
+[]\OT1/ptm/m/n/12 I would now explore the brachistochrone curve for the points 
+$\OML/ztmcm/m/it/12 A\OT1/ztmcm/m/n/12 (\OML/ztmcm/m/it/12 x[]; y[]\OT1/ztmcm/m
+/n/12 )$ \OT1/ptm/m/n/12 and $\OML/ztmcm/m/it/12 B\OT1/ztmcm/m/n/12 (\OML/ztmcm
+/m/it/12 x[]; y[]\OT1/ztmcm/m/n/12 )$\OT1/ptm/m/n/12 ,
+ []
+
+
+Overfull \hbox (5.74405pt too wide) in paragraph at lines 5--6
+\OT1/ptm/m/n/12 highest velocity (as the tangent at the initial point would be 
+a vertical line), However
  []
 
 [11]
@@ -1626,7 +1636,7 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  36599 strings out of 478868
  807514 string characters out of 2865271
- 1301114 words of memory out of 3000000
+ 1301115 words of memory out of 3000000
  53742 multiletter control sequences out of 15000+600000
  447325 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1641,7 +1651,7 @@ nts/cm/cmtt12.pfb><C:/MikTek/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:
 pfb><C:/MikTek/fonts/type1/urw/times/utmb8a.pfb><C:/MikTek/fonts/type1/urw/time
 s/utmbi8a.pfb><C:/MikTek/fonts/type1/urw/times/utmr8a.pfb><C:/MikTek/fonts/type
 1/urw/times/utmri8a.pfb>
-Output written on main.pdf (17 pages, 395628 bytes).
+Output written on main.pdf (17 pages, 395566 bytes).
 PDF statistics:
  224 PDF objects out of 1000 (max. 8388607)
  39 named destinations out of 1000 (max. 500000)
