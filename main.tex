@@ -62,8 +62,10 @@
 
 
 
+\renewcommand{\familydefault}{\sfdefault}
+
 \renewcommand{\contentsname}{\textit{Contents}\hline}
-\renewcommand{\bibname}{\textit{Bibliography}}
+\renewcommand{\refname}{\textit{Bibliography}}
 \renewcommand{\listfigurename}{\textit{List of Figures}\hline}
 \renewcommand{\listtablename}{\textit{List of Tables}\hline}
 
@@ -84,26 +86,24 @@
 
 \maketitle
 
-\newpage
-
-\tableofcontents
-\clearpage
+%\tableofcontents
+%\clearpage
 %\listoffigures
 %\listoftables
 
 
 
-\begin{abstract}
-    \import{Sections}{Abstract}
-\end{abstract}
+%\begin{abstract}
+%    \import{Sections}{Abstract}
+%\end{abstract}
 
 
 
-\section{\textit{Introduction}}
+\section{{Introduction}}
         
         \import{Sections}{Introduction}
         
-\section{\textit{Aim}}
+\section{{Aim}}
         
         \import{Sections}{Aim}
         
@@ -119,7 +119,7 @@
         
 %        \import{Sections}{The Fourier Transform}        
         
-\section{\textit{Background Research}}
+\section{{Background Research}}
         
         \import{Sections}{Background Research Mod 2}
         
@@ -147,11 +147,11 @@
         
 %        \import{Sections}{Equation}
 
-\section{\textit{Representation of the transforms and series}}
+\section{{Representation of the transforms and series}}
 
 	\import{Sections}{Representation of the transforms and series}
 
-\section{\textit{Solving ODE's using transforms and series}}
+\section{{Solving ODE's using transforms and series}}
 
 	\import{Sections}{Solving ODE's using transforms and series}
         
@@ -189,15 +189,15 @@
         
 %        \import{Sections}{Evaluation}
         
-\section{\textit{Limitations of Study}}
+%\chapter{\textit{Limitations of Study}}
         
-        \import{Sections}{Limitations of Study}
+%        \import{Sections}{Limitations of Study}
         
 %\chapter{\textit{Sources of Error}}
         
 %        \import{Sections}{Sources of Error}
         
-\section{\textit{Conclusion}}
+\section{{Conclusion}}
         
         \import{Sections}{Conclusion}
         
@@ -205,16 +205,16 @@
         
 \clearpage
 
-%\import{Works Cited}{Bib}
+\import{Works Cited}{Bib}
 
 
 \clearpage
 
-%\appendixpage
+\appendixpage
 
-%\appendix
+\appendix
 
-%\import{Appendix}{appdix}
+\import{Appendix}{appdix}
 
 
 \end{document}
